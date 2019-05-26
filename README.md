@@ -15,3 +15,5 @@ Part 2: HOUSE PRICE PREDICTION
 4. Gradient Boosting 
 5. Random Forest 
 6. Decision Tree 
+
+@2019 Quyen Nguyen
