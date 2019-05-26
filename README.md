@@ -7,6 +7,7 @@ Part 1: WEB SCRAPING DATA
 1. Create URL 
 2. Download webpage 
 3. Create clean dataset
+
 Part 2: HOUSE PRICE PREDICTION
 1. Simple Linear Regression
 2. Multiple Linear Regression
