@@ -3,9 +3,9 @@ This repository provides the codes to build the House Price Dataset from scratch
 
 It includes two parts.
 
-Part 1: WEB SCRAPING DATA 
-1. Create URL 
-2. Download webpage 
+Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
+1. Create the list of US Zipcode - Done 
+2. Download price from US Zillow - Done
 3. Create clean dataset
 
 Part 2: HOUSE PRICE PREDICTION
