@@ -3,17 +3,17 @@ This repository provides the codes to build the House Price Dataset from scratch
 
 It includes two parts.
 
-Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
-1. Create the list of US Zipcode - Done 
-2. Download price from US Zillow - Done
-3. Create clean dataset
+###Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
+[ ] 1. Create the list of US Zipcode - Done 
+[ ] 2. Download price from US Zillow - Done
+[ ] 3. Create clean dataset
 
-Part 2: HOUSE PRICE PREDICTION
-1. Simple Linear Regression
-2. Multiple Linear Regression
-3. Penalized Linear Regression
-4. Gradient Boosting 
-5. Random Forest 
-6. Decision Tree 
+###Part 2: HOUSE PRICE PREDICTION
+[ ] 1. Simple Linear Regression
+[ ] 2. Multiple Linear Regression
+[ ] 3. Penalized Linear Regression
+[ ] 4. Gradient Boosting 
+[ ] 5. Random Forest 
+[ ] 6. Decision Tree 
 
 @2019 Quyen Nguyen
