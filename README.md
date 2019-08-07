@@ -2,7 +2,10 @@
 This repository provides the codes to build the House Price Dataset from scratch using web-scraping, and implement house price predictions with the popular machine learning approaches on the House Price Dataset also from scratch.
 
 It includes two parts.
-
+## Part 0: BUILD MODEL FROM SCRATCH
+- [x] 1. Linear Regression
+- [x] 2. Logistic Regression
+- [x] 3. Gradient Boosting
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
