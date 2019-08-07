@@ -5,7 +5,7 @@ It includes two parts.
 ## Part 0: BUILD MODEL FROM SCRATCH
 - [x] 1. Linear Regression
 - [x] 2. Logistic Regression
-- [x] 3. Gradient Boosting
+- [ ] 3. Gradient Boosting
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
