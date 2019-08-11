@@ -6,6 +6,7 @@ It includes two parts.
 - [x] 1. Linear Regression
 - [x] 2. Logistic Regression
 - [ ] 3. Gradient Boosting
+- [x] 4. Neural Net
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
