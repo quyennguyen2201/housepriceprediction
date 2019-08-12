@@ -3,10 +3,10 @@ This repository provides the codes to build the House Price Dataset from scratch
 
 It includes two parts.
 ## Part 0: BUILD MODEL FROM SCRATCH
-- [x] 1. Linear Regression
-- [x] 2. Logistic Regression
+- [x] 1. Linear Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Linear%20Regression_GSD.ipynb)
+- [x] 2. Logistic Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Logistic%20Regression.ipynb) 
 - [ ] 3. Gradient Boosting
-- [x] 4. Neural Net
+- [x] 4. Neural Net  - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Neural%20Net%20implementation.ipynb)
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
