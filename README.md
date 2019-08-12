@@ -7,6 +7,7 @@ It includes two parts.
 - [x] 2. Logistic Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Logistic%20Regression.ipynb) 
 - [ ] 3. Gradient Boosting
 - [x] 4. Neural Net  - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Neural%20Net%20implementation.ipynb)
+- [x] 5. Ridge Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Ridge%20Regression.ipynb)
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
