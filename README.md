@@ -9,7 +9,8 @@ It includes two parts.
 - [x] 4. Neural Net  - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Neural%20Net%20implementation.ipynb)
 - [x] 5. Ridge Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Ridge%20Regression.ipynb)
 - [x] 6. CART - Classfication - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART.py)
-- [x] 7. CART = Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression.py)
+- [x] 7a. CART - Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression.py)
+- [x] 7b. CART - Regression Alternative - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression_New.py)
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
 - [x] 1. Create the list of US Zipcode - Done 
 - [ ] 2. Download price from US Zillow - Done
