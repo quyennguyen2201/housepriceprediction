@@ -5,7 +5,7 @@ It includes two parts.
 ## Part 0: BUILD MODEL FROM SCRATCH
 - [x] 1. Linear Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Linear%20Regression_GSD.ipynb)
 - [x] 2. Logistic Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Logistic%20Regression.ipynb) 
-- [ ] 3. Gradient Boosting
+- [x] 3. Gradient Boosting - [link](https://github.com/nguy2254/housepriceprediction/blob/master/GBM%20Implementation.py)
 - [x] 4. Neural Net  - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Neural%20Net%20implementation.ipynb)
 - [x] 5. Ridge Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Ridge%20Regression.ipynb)
 - [x] 6. CART - Classfication - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART.py)
