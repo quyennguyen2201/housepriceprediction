@@ -12,8 +12,8 @@ It includes two parts.
 - [x] 7a. CART - Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression.py)
 - [x] 7b. CART - Regression Alternative - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression_New.py)
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
-- [x] 1. Create the list of US Zipcode - Done 
-- [ ] 2. Download price from US Zillow - Done
+- [x] 1. Create the list of NZ - Done 
+- [x] 2. Download price from NZ RealEstate -[link](https://github.com/nguy2254/housepriceprediction/blob/master/Webscrapping.ipynb)
 - [ ] 3. Create clean dataset
 
 ## Part 2: HOUSE PRICE PREDICTION
