@@ -10,7 +10,7 @@ It includes two parts.
 - [x] 5. Ridge Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/Ridge%20Regression.ipynb)
 - [x] 6. CART - Classfication - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART.py)
 - [x] 7a. CART - Regression - [link](https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression.py)
-- [x] 7b. CART - Regression Alternative - [link]
+- [x] 7b. CART - Regression Alternative 
 - [x] 8.  PCA - [link](https://github.com/nguy2254/housepriceprediction/blob/master/PCA%20Analysis.ipynb)
 (https://github.com/nguy2254/housepriceprediction/blob/master/CART%20Regression_Regression_New.py)
 ## Part 1: WEB SCRAPING DATA  - ZILLOW DATA 
