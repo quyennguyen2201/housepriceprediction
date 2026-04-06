@@ -1,0 +1,806 @@
+,product,url,title,subtitle,description,pricing_method,capital_value,updated_date,sold_price,sold_date,confidence_band_1,estimated_value_1,confidence_band_2,estimated_value_2,confidence_band_3,estimated_value_3,confidence_band_4,estimated_value_4,valuation_date,land_value,improvement_value,bedroom,bathroom,floor_area,land_area,title_type,garage
+0,"Last sold on
+      28/05/20251 Pitt Street, North Dunedin1012m2$225,000(last sale price)",https://www.realestate.co.nz/property/1-pitt-street-north-dunedin-dunedin-city-otago/sgrm35fy,,,,,"$230,000",Low,"$225,000",28/05/2025,Low,$203K,Med,$237K,High,$268K,Updated 01/07/22,$230K,1 Jul 2022,"$230,000",$0,,,,1012m2,,
+1,"Last sold on
+      27/05/202558 Parklands Avenue, Mosgiel3$695,000(last sale price)",https://www.realestate.co.nz/property/58-parklands-avenue-mosgiel-dunedin-city-otago/8vryf7ms,,,,,"$690,000",Low,"$695,000",27/05/2025,Low,$650K,Med,$685K,High,$709K,Updated 01/07/22,$690K,1 Jul 2022,"$215,000","$475,000",3,,130m2,,,2
+2,"Last sold on
+      23/05/2025267 Macandrew Road, Forbury31491m2$470,000(last sale price)",https://www.realestate.co.nz/property/267-macandrew-road-forbury-dunedin-city-otago/y73lpc3r,,,,,"$650,000",Low,"$470,000",23/05/2025,Low,$566K,Med,$609K,High,$655K,Updated 01/07/22,$650K,1 Jul 2022,"$370,000","$280,000",3,1,120m2,491m2,,
+3,"Last sold on
+      16/05/202521 Seaview Terrace, Kew31579m2$488,000(last sale price)",https://www.realestate.co.nz/property/21-seaview-terrace-kew-dunedin-city-otago/2zwsplyr,,,,,"$580,000",Low,"$488,000",16/05/2025,Low,$518K,Med,$541K,High,$570K,Updated 01/07/22,$580K,1 Jul 2022,"$325,000","$255,000",3,1,130m2,579m2,,1
+4,"Last sold on
+      16/05/202530 Mcfadden Drive, Mosgiel31670m2$715,000(last sale price)",https://www.realestate.co.nz/property/30-mcfadden-drive-mosgiel-dunedin-city-otago/vw93bzks,,,,,"$910,000",Low,"$715,000",16/05/2025,Low,$810K,Med,$872K,High,$942K,Updated 01/07/22,$910K,1 Jul 2022,"$370,000","$540,000",3,1,200m2,670m2,,2
+5,"Last sold on
+      16/05/202520 Holm Avenue, Broad Bay321362m2$1,200,000(last sale price)",https://www.realestate.co.nz/property/20-holm-avenue-broad-bay-dunedin-city-otago/p78twf7r,,,,,"$1,250,000",Low,"$1,200,000",16/05/2025,Low,$1.12M,Med,$1.19M,High,$1.26M,Updated 01/07/22,$1.25M,1 Jul 2022,"$405,000","$845,000",3,2,265m2,1362m2,,2
+6,"Last sold on
+      16/05/202516 Balmain Street, Halfway Bush33664m2$640,000(last sale price)",https://www.realestate.co.nz/property/16-balmain-street-halfway-bush-dunedin-city-otago/b9ftc4hr,,,,,"$610,000",Low,"$640,000",16/05/2025,Low,$466K,Med,$492K,High,$522K,Updated 01/07/22,$610K,1 Jul 2022,"$285,000","$325,000",3,3,80m2,664m2,,
+7,"Last sold on
+      15/05/202542 Hope Street, Dunedin Central3175m2$595,000(last sale price)",https://www.realestate.co.nz/property/42-hope-street-dunedin-central-dunedin-city-otago/7l5xw1nr,,,,,"$580,000",Low,"$595,000",15/05/2025,Low,$319K,Med,$353K,High,$398K,Updated 01/07/22,$580K,1 Jul 2022,"$75,000","$505,000",3,1,119m2,75m2,,
+8,"Last sold on
+      13/05/202522 Kura Place, Mosgiel32620m2$935,000(last sale price)",https://www.realestate.co.nz/property/22-kura-place-mosgiel-dunedin-city-otago/k2k2k2js,,,,,"$930,000",Low,"$935,000",13/05/2025,Low,$912K,Med,$945K,High,$1M,Updated 01/07/22,$930K,1 Jul 2022,"$400,000","$530,000",3,2,247m2,620m2,,2
+9,"Last sold on
+      09/05/202520 Jensen Street, Green Island31675m2$509,000(last sale price)",https://www.realestate.co.nz/property/20-jensen-street-green-island-dunedin-city-otago/x18l1kbs,,,,,"$465,000",Low,"$509,000",9/05/2025,Low,$424K,Med,$449K,High,$482K,Updated 01/07/22,$465K,1 Jul 2022,"$280,000","$185,000",3,1,124m2,675m2,,
+10,"Last sold on
+      09/05/202516 Cosy Dell Road, North Dunedin63208m2$958,000(last sale price)",https://www.realestate.co.nz/property/16-cosy-dell-road-north-dunedin-dunedin-city-otago/c1l2fqrr,,,,,"$900,000",Low,"$958,000",9/05/2025,Low,$851K,Med,$903K,High,$955K,Updated 01/07/22,$900K,1 Jul 2022,"$425,000","$475,000",6,3,158m2,208m2,,
+11,"Last sold on
+      09/05/202543 Main Road, Fairfield42731m2$900,000(last sale price)",https://www.realestate.co.nz/property/43-main-road-fairfield-dunedin-city-otago/prqlc1ds,,,,,"$980,000",Low,"$900,000",9/05/2025,Low,$935K,Med,$996K,High,$1.06M,Updated 01/07/22,$980K,1 Jul 2022,"$315,000","$665,000",4,2,200m2,731m2,,3
+12,"Last sold on
+      09/05/202557 Helena Street, Forbury21$363,000(last sale price)",https://www.realestate.co.nz/property/57-helena-street-forbury-dunedin-city-otago/ktvpbs1r,,,,,"$550,000",Low,"$363,000",9/05/2025,Low,$462K,Med,$497K,High,$539K,Updated 01/07/22,$550K,1 Jul 2022,"$220,000","$330,000",2,1,90m2,,,1
+13,"Last sold on
+      09/05/202517 Bolton Street, East Otago4831m2$125,000(last sale price)",https://www.realestate.co.nz/property/17-bolton-street-east-otago-dunedin-city-otago/j8s486bs,,,,,"$250,000",Low,"$125,000",9/05/2025,Low,$211K,Med,$263K,High,$338K,Updated 01/07/22,$250K,1 Jul 2022,"$100,000","$150,000",,,120m2,4831m2,,
+14,"Last sold on
+      09/05/2025114 Argyle Street, Mosgiel41890m2$750,000(last sale price)",https://www.realestate.co.nz/property/114-argyle-street-mosgiel-dunedin-city-otago/bc2gldms,,,,,"$840,000",Low,"$750,000",9/05/2025,Low,$711K,Med,$769K,High,$841K,Updated 01/07/22,$840K,1 Jul 2022,"$690,000","$150,000",4,1,151m2,890m2,,1
+15,"Last sold on
+      08/05/20259 Camden Grove, Maia32664m2$1,154,000(last sale price)",https://www.realestate.co.nz/property/9-camden-grove-maia-dunedin-city-otago/WLM9zCtXk,,,,,"$980,000",Low,"$1,154,000",8/05/2025,Low,$909K,Med,$968K,High,$1.06M,Updated 01/07/22,$980K,1 Jul 2022,"$380,000","$600,000",3,2,194m2,664m2,,1
+16,"Recently sold106 Ashmore Street, Halfway Bush31622m2Price is not yet confirmed",https://www.realestate.co.nz/property/106-ashmore-street-halfway-bush-dunedin-city-otago/7l5xw1hr,,,,,"$540,000",Low,,,Low,$495K,Med,$522K,High,$547K,Updated 01/07/22,$540K,1 Jul 2022,"$285,000","$255,000",3,1,100m2,622m2,,2
+17,"Last sold on
+      06/05/202513 Argyle Street, Mornington31387m2$530,000(last sale price)",https://www.realestate.co.nz/property/13-argyle-street-mornington-dunedin-city-otago/7m1fv7lr,,,,,"$580,000",Low,"$530,000",6/05/2025,Low,$532K,Med,$556K,High,$584K,Updated 01/07/22,$580K,1 Jul 2022,"$290,000","$290,000",3,1,91m2,387m2,,1
+18,"Last sold on
+      06/05/202531 Stanley Street, Kenmure31458m2$555,000(last sale price)",https://www.realestate.co.nz/property/31-stanley-street-kenmure-dunedin-city-otago/p4snqzmr,,,,,"$530,000",Low,"$555,000",6/05/2025,Low,$486K,Med,$519K,High,$549K,Updated 01/07/22,$530K,1 Jul 2022,"$335,000","$195,000",3,1,130m2,458m2,,
+19,"Last sold on
+      05/05/2025115 Hagart-alexander Drive, Mosgiel31602m2$620,000(last sale price)",https://www.realestate.co.nz/property/115-hagart-alexander-drive-mosgiel-dunedin-city-otago/5p153vns,,,,,"$670,000",Low,"$620,000",5/05/2025,Low,$639K,Med,$679K,High,$716K,Updated 01/07/22,$670K,1 Jul 2022,"$375,000","$295,000",3,1,130m2,602m2,,1
+20,"Last sold on
+      02/05/202523 Delphic Street, Sawyers Bay31768m2$615,000(last sale price)",https://www.realestate.co.nz/property/23-delphic-street-sawyers-bay-dunedin-city-otago/5hyg3t5q,,,,,"$670,000",Low,"$615,000",2/05/2025,Low,$650K,Med,$685K,High,$721K,Updated 01/07/22,$670K,1 Jul 2022,"$270,000","$400,000",3,1,220m2,768m2,,4
+21,"Last sold on
+      01/05/2025235 Gladstone Road North, Mosgiel31809m2$586,250(last sale price)",https://www.realestate.co.nz/property/235-gladstone-road-north-mosgiel-dunedin-city-otago/c2b7ps9v,,,,,"$600,000",Low,"$586,250",1/05/2025,Low,$555K,Med,$584K,High,$613K,Updated 01/07/22,$600K,1 Jul 2022,"$335,000","$265,000",3,1,110m2,809m2,,1
+22,"Last sold on
+      01/05/202598C Factory Road, Mosgiel11106m2$420,000(last sale price)",https://www.realestate.co.nz/property/98c-factory-road-mosgiel-dunedin-city-otago/n5X8gnlYk,,,,,"$510,000",Low,"$420,000",1/05/2025,Low,$464K,Med,$497K,High,$527K,Updated 01/07/22,$510K,1 Jul 2022,"$240,000","$270,000",1,1,56m2,106m2,,
+23,"Last sold on
+      30/04/202513 Maryhill Terrace, Maryhill31455m2$575,000(last sale price)",https://www.realestate.co.nz/property/13-maryhill-terrace-maryhill-dunedin-city-otago/n0kb9fmr,"13 Maryhill Terrace, Maryhill, Dunedin City",Great Location Ready Now,"This is a well presented two bedroom, one bathroom home with open plan kitchen and living area and excellent functional flow throughout. There is the option to have a separate lounge or third bedroom.The home is kept warm by a heat pump and gas heater.The bathroom set up offers a shower over bath with vanity and separate toilet.Features include the separate laundry space, the private patio area with easy care section and the garage off street parking.This home is conveniently located within walking distance to the Mornington shops and Countdown supermarkets, and is also close to the city, local schools, and public transport routes. Its desirable location makes it appealing to a wide market.No petsTenants to maintain the lawnGas heater and stoveAvailable now",dollar$570 per week,,,,,,,,,,,,,,,,2,1,,,,
+24,"Last sold on
+      30/04/202542A Ayr Street, Mosgiel31130m2$515,000(last sale price)",https://www.realestate.co.nz/property/42a-ayr-street-mosgiel-dunedin-city-otago/s2nkr7ls,,,,,"$495,000",Low,"$515,000",30/04/2025,Low,$501K,Med,$523K,High,$552K,Updated 01/07/22,$495K,1 Jul 2022,"$290,000","$205,000",3,1,130m2,130m2,,1
+25,"Last sold on
+      30/04/202598B Victoria Road, Saint Kilda21$380,000(last sale price)",https://www.realestate.co.nz/property/98b-victoria-road-saint-kilda-dunedin-city-otago/cy3w874r,,,,,"$395,000",Low,"$380,000",30/04/2025,Low,$360K,Med,$381K,High,$408K,Updated 01/07/22,$395K,1 Jul 2022,"$230,000","$165,000",2,1,70m2,,,1
+26,"Last sold on
+      30/04/20259 De Carle Street, Saint Kilda53369m2$745,000(last sale price)",https://www.realestate.co.nz/property/9-de-carle-street-saint-kilda-dunedin-city-otago/2vj3ky4r,,,,,"$620,000",Low,"$745,000",30/04/2025,Low,$575K,Med,$617K,High,$668K,Updated 01/07/22,$620K,1 Jul 2022,"$270,000","$350,000",5,3,160m2,369m2,,2
+27,"Last sold on
+      29/04/20252 Chapel Street, Kaikorai31567m2$435,000(last sale price)",https://www.realestate.co.nz/property/2-chapel-street-kaikorai-dunedin-city-otago/rwtk3fhr,,,,,"$450,000",Low,"$435,000",29/04/2025,Low,$408K,Med,$432K,High,$458K,Updated 01/07/22,$450K,1 Jul 2022,"$230,000","$220,000",3,1,103m2,567m2,,1
+28,"Last sold on
+      29/04/2025484 South Road, Calton Hill31417m2$350,000(last sale price)",https://www.realestate.co.nz/property/484-south-road-calton-hill-dunedin-city-otago/jrcdtmxr,,,,,"$435,000",Low,"$350,000",29/04/2025,Low,$390K,Med,$419K,High,$440K,Updated 01/07/22,$435K,1 Jul 2022,"$205,000","$230,000",3,1,97m2,417m2,,
+29,"Last sold on
+      29/04/202525 Council Street, Saint Kilda21235m2$315,000(last sale price)",https://www.realestate.co.nz/property/25-council-street-saint-kilda-dunedin-city-otago/6rjhn04r,,,,,"$415,000",Low,"$315,000",29/04/2025,Low,$349K,Med,$386K,High,$409K,Updated 01/07/22,$415K,1 Jul 2022,"$230,000","$185,000",2,1,80m2,235m2,,
+30,"Last sold on
+      29/04/2025131 Gladstone Road South, East Taieri433348m2$1,850,000(last sale price)",https://www.realestate.co.nz/property/131-gladstone-road-south-east-taieri-dunedin-city-otago/p21mtlcgc,,,,,"$1,760,000",Low,"$1,850,000",29/04/2025,Low,$1.61M,Med,$1.81M,High,$1.92M,Updated 01/07/22,$1.76M,1 Jul 2022,"$900,000","$860,000",4,3,430m2,3348m2,,2
+31,"Last sold on
+      28/04/202531 Botha Street, Tainui32378m2$485,000(last sale price)",https://www.realestate.co.nz/property/31-botha-street-tainui-dunedin-city-otago/b46l983r,,,,,"$510,000",Low,"$485,000",28/04/2025,Low,$483K,Med,$524K,High,$559K,Updated 01/07/22,$510K,1 Jul 2022,"$300,000","$210,000",3,2,112m2,378m2,,
+32,"Last sold on
+      28/04/202534 Mulford Street, Concord42512m2$630,000(last sale price)",https://www.realestate.co.nz/property/34-mulford-street-concord-dunedin-city-otago/7nxysf8r,,,,,"$640,000",Low,"$630,000",28/04/2025,Low,$587K,Med,$608K,High,$650K,Updated 01/07/22,$640K,1 Jul 2022,"$270,000","$370,000",4,2,235m2,512m2,,
+33,"Last sold on
+      28/04/202559 Beresford Street, Wakari31853m2$620,000(last sale price)",https://www.realestate.co.nz/property/59-beresford-street-wakari-dunedin-city-otago/k492ggfr,,,,,"$630,000",Low,"$620,000",28/04/2025,Low,$569K,Med,$599K,High,$630K,Updated 01/07/22,$630K,1 Jul 2022,"$250,000","$380,000",3,1,105m2,853m2,,2
+34,"Last sold on
+      24/04/202546 Aberdeen Road, Saint Clair42716m2$775,000(last sale price)",https://www.realestate.co.nz/property/46-aberdeen-road-saint-clair-dunedin-city-otago/fp4snqyr,,,,,"$790,000",Low,"$775,000",24/04/2025,Low,$764K,Med,$810K,High,$866K,Updated 01/07/22,$790K,1 Jul 2022,"$285,000","$505,000",4,2,170m2,716m2,,1
+35,"Last sold on
+      24/04/202579 Playfair Street, Caversham41807m2$375,000(last sale price)",https://www.realestate.co.nz/property/79-playfair-street-caversham-dunedin-city-otago/psgrm3yr,,,,,"$445,000",Low,"$375,000",24/04/2025,Low,$346K,Med,$390K,High,$429K,Updated 01/07/22,$445K,1 Jul 2022,"$215,000","$230,000",4,1,150m2,807m2,,
+36,"Last sold on
+      24/04/202535 Murray Street, Mosgiel31809m2$515,000(last sale price)",https://www.realestate.co.nz/property/35-murray-street-mosgiel-dunedin-city-otago/0r9msqjs,,,,,"$520,000",Low,"$515,000",24/04/2025,Low,$517K,Med,$550K,High,$578K,Updated 01/07/22,$520K,1 Jul 2022,"$330,000","$190,000",3,1,120m2,809m2,,2
+37,"Last sold on
+      24/04/202527 Elliot Street, Andersons Bay31673m2$706,000(last sale price)",https://www.realestate.co.nz/property/27-elliot-street-andersons-bay-dunedin-city-otago/d1gqrlvr,,,,,"$740,000",Low,"$706,000",24/04/2025,Low,$647K,Med,$705K,High,$748K,Updated 01/07/22,$740K,1 Jul 2022,"$540,000","$200,000",3,1,142m2,673m2,,1
+38,"Last sold on
+      24/04/20257/63 Opoho Road, North East Valley62485m2$525,000(last sale price)",https://www.realestate.co.nz/property/7-63-opoho-road-north-east-valley-dunedin-city-otago/nzptb84x,,,,,"$430,000",Low,"$525,000",24/04/2025,Low,$412K,Med,$457K,High,$491K,Updated 01/07/22,$430K,1 Jul 2022,"$230,000","$200,000",6,2,150m2,485m2,,1
+39,"Last sold on
+      24/04/2025784 Portobello Road, Broad Bay311.38ha$960,000(last sale price)",https://www.realestate.co.nz/property/784-portobello-road-broad-bay-dunedin-city-otago/jd5tdw7r,,,,,"$1,200,000",Low,"$960,000",24/04/2025,Low,$1.09M,Med,$1.1M,High,$1.19M,Updated 01/07/22,$1.2M,1 Jul 2022,"$610,000","$590,000",3,1,150m2,1.38ha,,
+40,"Last sold on
+      24/04/20257 Malvern Street, Woodhaugh508m2$589,675(last sale price)",https://www.realestate.co.nz/property/7-malvern-street-woodhaugh-dunedin-city-otago/2sxfcpbr,,,,,"$610,000",Low,"$589,675",24/04/2025,Low,$579K,Med,$615K,High,$651K,Updated 01/07/22,$610K,1 Jul 2022,"$295,000","$315,000",,,163m2,508m2,,1
+41,"Last sold on
+      23/04/202531 Mitchell Street, Abbotsford31501m2$595,000(last sale price)",https://www.realestate.co.nz/property/31-mitchell-street-abbotsford-dunedin-city-otago/dx30my8r,,,,,"$650,000",Low,"$595,000",23/04/2025,Low,$597K,Med,$635K,High,$670K,Updated 01/07/22,$650K,1 Jul 2022,"$255,000","$395,000",3,1,160m2,501m2,,2
+42,"Last sold on
+      22/04/202521 Turner Street, Halfway Bush31544m2$537,250(last sale price)",https://www.realestate.co.nz/property/21-turner-street-halfway-bush-dunedin-city-otago/8hkd1gcr,,,,,"$550,000",Low,"$537,250",22/04/2025,Low,$512K,Med,$535K,High,$564K,Updated 01/07/22,$550K,1 Jul 2022,"$295,000","$255,000",3,1,110m2,544m2,,1
+43,"Last sold on
+      22/04/202510 Alison Crescent, Belleknowes421050m2$1,220,000(last sale price)",https://www.realestate.co.nz/property/10-alison-crescent-belleknowes-dunedin-city-otago/y4mfjxgr,,,,,"$1,250,000",Low,"$1,220,000",22/04/2025,Low,$1.07M,Med,$1.19M,High,$1.25M,Updated 01/07/22,$1.25M,1 Jul 2022,"$620,000","$630,000",4,2,174m2,1050m2,,
+44,"Last sold on
+      22/04/202513 Mcmaster Road, Saddle Hill121.75ha$955,000(last sale price)",https://www.realestate.co.nz/property/13-mcmaster-road-saddle-hill-dunedin-city-otago/9gkjd5gs,,,,,"$1,060,000",Low,"$955,000",22/04/2025,Low,$987K,Med,$997K,High,$1.01M,Updated 01/07/22,$1.06M,1 Jul 2022,"$470,000","$590,000",1,2,136m2,1.75ha,,
+45,"Last sold on
+      22/04/202528A Forfar Street, Mosgiel21$399,000(last sale price)",https://www.realestate.co.nz/property/28a-forfar-street-mosgiel-dunedin-city-otago/pddp84ls,,,,,"$320,000",Low,"$399,000",22/04/2025,Low,$308K,Med,$337K,High,$369K,Updated 01/07/22,$320K,1 Jul 2022,"$170,000","$150,000",2,1,60m2,,,1
+46,"Last sold on
+      17/04/202517 Trafalgar Street, Saint Kilda31405m2$512,000(last sale price)",https://www.realestate.co.nz/property/17-trafalgar-street-saint-kilda-dunedin-city-otago/2y4mfj5r,,,,,"$605,000",Low,"$512,000",17/04/2025,Low,$510K,Med,$546K,High,$577K,Updated 01/07/22,$605K,1 Jul 2022,"$345,000","$260,000",3,1,121m2,405m2,,
+47,"Last sold on
+      17/04/20258 Benhar Street, Maryhill3567m2$500,000(last sale price)",https://www.realestate.co.nz/property/8-benhar-street-maryhill-dunedin-city-otago/4fg5kpmr,,,,,"$600,000",Low,"$500,000",17/04/2025,Low,$557K,Med,$587K,High,$622K,Updated 01/07/22,$600K,1 Jul 2022,"$385,000","$215,000",3,,119m2,567m2,,2
+48,"Last sold on
+      17/04/202535 Kinmont Crescent, Mosgiel21$534,000(last sale price)",https://www.realestate.co.nz/property/35-kinmont-crescent-mosgiel-dunedin-city-otago/s1s1s1ks,,,,,"$435,000",Low,"$534,000",17/04/2025,Low,$388K,Med,$407K,High,$435K,Updated 01/07/22,$435K,1 Jul 2022,"$190,000","$245,000",2,1,90m2,,,1
+49,"Last sold on
+      17/04/20255 Seddon Street, Ravensbourne31931m2$313,000(last sale price)",https://www.realestate.co.nz/property/5-seddon-street-ravensbourne-dunedin-city-otago/5m946g6q,,,,,"$495,000",Low,"$313,000",17/04/2025,Low,$401K,Med,$438K,High,$477K,Updated 01/07/22,$495K,1 Jul 2022,"$275,000","$220,000",3,1,110m2,931m2,,1
+50,"Last sold on
+      17/04/20257 Wren Lane, Saint Leonards431567m2$877,500(last sale price)",https://www.realestate.co.nz/property/7-wren-lane-saint-leonards-dunedin-city-otago/hcfp4srlk,,,,,"$1,025,000",Low,"$877,500",17/04/2025,Low,$931K,Med,$977K,High,$1.07M,Updated 01/07/22,$1.03M,1 Jul 2022,"$470,000","$555,000",4,3,160m2,1567m2,,2
+51,"Last sold on
+      17/04/202554 Waimea Avenue, Calton Hill21667m2$510,000(last sale price)",https://www.realestate.co.nz/property/54-waimea-avenue-calton-hill-dunedin-city-otago/7bgknrxr,,,,,"$420,000",Low,"$510,000",17/04/2025,Low,$362K,Med,$389K,High,$420K,Updated 01/07/22,$420K,1 Jul 2022,"$260,000","$160,000",2,1,74m2,667m2,,
+52,"Last sold on
+      17/04/202559 Argyle Street, Mornington622m2$155,000(last sale price)",https://www.realestate.co.nz/property/59-argyle-street-mornington-dunedin-city-otago/bwh71zst,,,,,"$170,000",Low,"$155,000",17/04/2025,Low,$163K,Med,$193K,High,$223K,Updated 01/07/22,$170K,1 Jul 2022,"$170,000",$0,,,,622m2,,
+53,"Last sold on
+      17/04/20256 Victoria Street, Waikouaiti2502m2$67,000(last sale price)",https://www.realestate.co.nz/property/6-victoria-street-waikouaiti-dunedin-city-otago/sfw34zpz,,,,,"$255,000",Low,"$67,000",17/04/2025,Low,$224K,Med,$252K,High,$278K,Updated 01/07/22,$255K,1 Jul 2022,"$67,000","$188,000",2,,100m2,502m2,,1
+54,"Last sold on
+      17/04/2025111 Hillhead Road, Corstorphine21500m2$431,000(last sale price)",https://www.realestate.co.nz/property/111-hillhead-road-corstorphine-dunedin-city-otago/g5kph0pw,,,,,"$450,000",Low,"$431,000",17/04/2025,Low,$401K,Med,$424K,High,$452K,Updated 01/07/22,$450K,1 Jul 2022,"$275,000","$175,000",2,1,95m2,500m2,,
+55,"Last sold on
+      16/04/202547 Melbourne Street, South Dunedin31393m2$380,000(last sale price)",https://www.realestate.co.nz/property/47-melbourne-street-south-dunedin-dunedin-city-otago/30myyn2r,"47 Melbourne Street, South Dunedin, Dunedin City",Short Term Rental,"Tidy well positioned three bedroom, one bathroom home with open plan living.Kept warm by a centrally located wood burner and heat pump.Healthy homes compliantThis home is walking distance to local South Dunedin shops, Pak ‘n Save, hair salons, a short distance to the beach and the CBD and would be suitable for a wide market.No petsNo whiteware includeAvailable now – February 2026",dollar$495 per week,,,,,,,,,,,,,,,,3,1,,,,
+56,"Last sold on
+      16/04/202573 Mckerrow Street, Shiel Hill31554m2$595,000(last sale price)",https://www.realestate.co.nz/property/73-mckerrow-street-shiel-hill-dunedin-city-otago/c1l2fqtr,,,,,"$570,000",Low,"$595,000",16/04/2025,Low,$541K,Med,$571K,High,$597K,Updated 01/07/22,$570K,1 Jul 2022,"$350,000","$220,000",3,1,150m2,554m2,,1
+57,"Last sold on
+      16/04/20258 Knox Street, North East Valley62316m2$845,000(last sale price)",https://www.realestate.co.nz/property/8-knox-street-north-east-valley-dunedin-city-otago/l8jfxz8q,,,,,"$510,000",Low,"$845,000",16/04/2025,Low,$474K,Med,$519K,High,$571K,Updated 01/07/22,$510K,1 Jul 2022,"$335,000","$175,000",6,2,100m2,316m2,,
+58,"Last sold on
+      16/04/202519A Queens Drive, Saint Kilda31301m2$655,000(last sale price)",https://www.realestate.co.nz/property/19a-queens-drive-saint-kilda-dunedin-city-otago/pn31hg4r,,,,,"$650,000",Low,"$655,000",16/04/2025,Low,$603K,Med,$628K,High,$651K,Updated 01/07/22,$650K,1 Jul 2022,"$250,000","$400,000",3,1,128m2,301m2,,1
+59,"Last sold on
+      15/04/202557 Manchester Street, Bradford31582m2$240,000(last sale price)",https://www.realestate.co.nz/property/57-manchester-street-bradford-dunedin-city-otago/46gylgjr,,,,,"$510,000",Low,"$240,000",15/04/2025,Low,$452K,Med,$491K,High,$525K,Updated 01/07/22,$510K,1 Jul 2022,"$250,000","$260,000",3,1,140m2,582m2,,1
+60,"Last sold on
+      15/04/202559A Magdala Street, Tainui31344m2$680,000(last sale price)",https://www.realestate.co.nz/property/59a-magdala-street-tainui-dunedin-city-otago/55lfn8wr,,,,,"$710,000",Low,"$680,000",15/04/2025,Low,$628K,Med,$662K,High,$701K,Updated 01/07/22,$710K,1 Jul 2022,"$345,000","$365,000",3,1,140m2,344m2,,2
+61,"Last sold on
+      15/04/202537 Puketai Street, Andersons Bay21643m2$580,000(last sale price)",https://www.realestate.co.nz/property/37-puketai-street-andersons-bay-dunedin-city-otago/snqzf3vr,,,,,"$580,000",Low,"$580,000",15/04/2025,Low,$515K,Med,$550K,High,$568K,Updated 01/07/22,$580K,1 Jul 2022,"$220,000","$360,000",2,1,81m2,643m2,,
+62,"Last sold on
+      15/04/2025228 Harington Point Road, Portobello1150m2$225,000(last sale price)",https://www.realestate.co.nz/property/228-harington-point-road-portobello-dunedin-city-otago/s1s1s16r,,,,,"$335,000",Low,"$225,000",15/04/2025,Low,$275K,Med,$322K,High,$362K,Updated 01/07/22,$335K,1 Jul 2022,"$335,000",$0,,,,1150m2,,
+63,"Last sold on
+      15/04/202546 Tainui Road, Tainui31419m2$511,000(last sale price)",https://www.realestate.co.nz/property/46-tainui-road-tainui-dunedin-city-otago/h71z04wr,,,,,"$510,000",Low,"$511,000",15/04/2025,Low,$460K,Med,$500K,High,$532K,Updated 01/07/22,$510K,1 Jul 2022,"$400,000","$110,000",3,1,135m2,419m2,,
+64,"Last sold on
+      14/04/2025114 Scurr Road, Scroggs Hill22ha$1,200,000(last sale price)",https://www.realestate.co.nz/property/114-scurr-road-scroggs-hill-dunedin-city-otago/3p9wh3gs,,,,,"$1,460,000",Low,"$1,200,000",14/04/2025,Low,$1.22M,Med,$1.37M,High,$1.5M,Updated 01/07/22,$1.46M,1 Jul 2022,"$500,000","$960,000",2,,220m2,2ha,,
+65,"Last sold on
+      14/04/202528 Hart Street, Belleknowes1012m2$845,000(last sale price)",https://www.realestate.co.nz/property/28-hart-street-belleknowes-dunedin-city-otago/b1qf4tgr,,,,,"$790,000",Low,"$845,000",14/04/2025,Low,$725K,Med,$790K,High,$856K,Updated 01/07/22,$790K,1 Jul 2022,"$710,000","$80,000",,,210m2,1012m2,,2
+66,"Last sold on
+      14/04/20251 Gilmore Street, Kaikorai31474m2$535,000(last sale price)",https://www.realestate.co.nz/property/1-gilmore-street-kaikorai-dunedin-city-otago/71z04cqrz,,,,,"$510,000",Low,"$535,000",14/04/2025,Low,$474K,Med,$502K,High,$526K,Updated 01/07/22,$510K,1 Jul 2022,"$230,000","$280,000",3,1,122m2,474m2,,
+67,"Last sold on
+      14/04/202523 Thornly Park Avenue, Mosgiel42951m2$1,285,000(last sale price)",https://www.realestate.co.nz/property/23-thornly-park-avenue-mosgiel-dunedin-city-otago/7t0s542fk,,,,,"$1,200,000",Low,"$1,285,000",14/04/2025,Low,$1.25M,Med,$1.32M,High,$1.39M,Updated 01/07/22,$1.2M,1 Jul 2022,"$530,000","$670,000",4,2,268m2,951m2,,2
+68,"Last sold on
+      14/04/20252 Carnarvon Street, Belleknowes42582m2$849,000(last sale price)",https://www.realestate.co.nz/property/2-carnarvon-street-belleknowes-dunedin-city-otago/5g2y4mkr,,,,,"$900,000",Low,"$849,000",14/04/2025,Low,$781K,Med,$843K,High,$885K,Updated 01/07/22,$900K,1 Jul 2022,"$480,000","$420,000",4,2,138m2,582m2,,1
+69,"Last sold on
+      14/04/202574 Woodside Road, Outram316.48ha$1,025,000(last sale price)",https://www.realestate.co.nz/property/74-woodside-road-outram-dunedin-city-otago/21mtlzhs,,,,,"$1,000,000",Low,"$1,025,000",14/04/2025,Low,$904K,Med,$1.01M,High,$1.08M,Updated 01/07/22,$1M,1 Jul 2022,"$640,000","$360,000",3,1,104m2,6.48ha,,2
+70,"Last sold on
+      11/04/2025202 North Road, North East Valley41206m2$410,000(last sale price)",https://www.realestate.co.nz/property/202-north-road-north-east-valley-dunedin-city-otago/vkz2wd9q,,,,,"$400,000",Low,"$410,000",11/04/2025,Low,$373K,Med,$398K,High,$424K,Updated 01/07/22,$400K,1 Jul 2022,"$240,000","$160,000",4,1,100m2,206m2,,
+71,"Last sold on
+      11/04/202516 Taieri Mouth Road, Brighton531.89ha$1,050,000(last sale price)",https://www.realestate.co.nz/property/16-taieri-mouth-road-brighton-dunedin-city-otago/frrgwzgs,,,,,"$1,130,000",Low,"$1,050,000",11/04/2025,Low,$1.03M,Med,$1.04M,High,$1.05M,Updated 01/07/22,$1.13M,1 Jul 2022,"$600,000","$530,000",5,3,179m2,1.89ha,,2
+72,"Last sold on
+      11/04/202520 Skerries Street, Outram211012m2$685,000(last sale price)",https://www.realestate.co.nz/property/20-skerries-street-outram-dunedin-city-otago/z8vryfhs,,,,,"$770,000",Low,"$685,000",11/04/2025,Low,$697K,Med,$740K,High,$776K,Updated 01/07/22,$770K,1 Jul 2022,"$340,000","$430,000",2,1,180m2,1012m2,,2
+73,"Last sold on
+      11/04/202572 Heathfield Drive, Mosgiel833m2$430,000(last sale price)",https://www.realestate.co.nz/property/72-heathfield-drive-mosgiel-dunedin-city-otago/9ZgRvKXXk,,,,,"$380,000",Low,"$430,000",11/04/2025,Low,$321K,Med,$354K,High,$386K,Updated 01/07/22,$380K,1 Jul 2022,"$380,000",$0,,,,833m2,,
+74,"Last sold on
+      11/04/202551 Tay Street, Mosgiel31768m2$590,000(last sale price)",https://www.realestate.co.nz/property/51-tay-street-mosgiel-dunedin-city-otago/90vstyjs,,,,,"$600,000",Low,"$590,000",11/04/2025,Low,$571K,Med,$601K,High,$631K,Updated 01/07/22,$600K,1 Jul 2022,"$425,000","$175,000",3,1,121m2,768m2,,1
+75,"Last sold on
+      11/04/2025380 Taieri Road, Halfway Bush31854m2$544,000(last sale price)",https://www.realestate.co.nz/property/380-taieri-road-halfway-bush-dunedin-city-otago/34zm29br,,,,,"$570,000",Low,"$544,000",11/04/2025,Low,$510K,Med,$543K,High,$571K,Updated 01/07/22,$570K,1 Jul 2022,"$240,000","$330,000",3,1,105m2,854m2,,1
+76,"Last sold on
+      11/04/202551 Silver Springs Boulevard, Mosgiel21560m2$765,000(last sale price)",https://www.realestate.co.nz/property/51-silver-springs-boulevard-mosgiel-dunedin-city-otago/grm35v81d,,,,,"$760,000",Low,"$765,000",11/04/2025,Low,$715K,Med,$761K,High,$807K,Updated 01/07/22,$760K,1 Jul 2022,"$345,000","$415,000",2,1,142m2,560m2,,2
+77,"Last sold on
+      10/04/2025110 Rolla Street, Normanby1512m2$350,000(last sale price)",https://www.realestate.co.nz/property/110-rolla-street-normanby-dunedin-city-otago/swp6db8q,,,,,"$350,000",Low,"$350,000",10/04/2025,Low,$318K,Med,$336K,High,$361K,Updated 01/07/22,$350K,1 Jul 2022,"$200,000","$150,000",,1,80m2,512m2,,
+78,"Last sold on
+      10/04/202510 Walton Park Avenue, Fairfield31830m2$715,000(last sale price)",https://www.realestate.co.nz/property/10-walton-park-avenue-fairfield-dunedin-city-otago/gjs7wrds,,,,,"$730,000",Low,"$715,000",10/04/2025,Low,$681K,Med,$715K,High,$748K,Updated 01/07/22,$730K,1 Jul 2022,"$420,000","$310,000",3,1,187m2,830m2,,
+79,"Last sold on
+      10/04/202596 Easther Crescent, Kew31516m2$545,000(last sale price)",https://www.realestate.co.nz/property/96-easther-crescent-kew-dunedin-city-otago/9fp0fzyr,,,,,"$590,000",Low,"$545,000",10/04/2025,Low,$527K,Med,$554K,High,$578K,Updated 01/07/22,$590K,1 Jul 2022,"$315,000","$275,000",3,1,110m2,516m2,,1
+80,"Last sold on
+      10/04/202516F Mure Street, Mosgiel21$448,000(last sale price)",https://www.realestate.co.nz/property/16f-mure-street-mosgiel-dunedin-city-otago/rt2j61ls,,,,,"$450,000",Low,"$448,000",10/04/2025,Low,$407K,Med,$440K,High,$466K,Updated 01/07/22,$450K,1 Jul 2022,"$150,000","$300,000",2,1,60m2,,,1
+81,"Last sold on
+      10/04/2025126 Musselburgh Rise, Musselburgh32516m2$701,000(last sale price)",https://www.realestate.co.nz/property/126-musselburgh-rise-musselburgh-dunedin-city-otago/wgck1twr,,,,,"$750,000",Low,"$701,000",10/04/2025,Low,$653K,Med,$692K,High,$742K,Updated 01/07/22,$750K,1 Jul 2022,"$455,000","$295,000",3,2,220m2,516m2,,1
+82,"Last sold on
+      10/04/202537 Glen Road, Mornington31460m2$410,000(last sale price)",https://www.realestate.co.nz/property/37-glen-road-mornington-dunedin-city-otago/1z04cqlr,,,,,"$425,000",Low,"$410,000",10/04/2025,Low,$381K,Med,$404K,High,$426K,Updated 01/07/22,$425K,1 Jul 2022,"$175,000","$250,000",3,1,100m2,460m2,,
+83,"Last sold on
+      09/04/2025438 Riccarton Road West, North Taieri22.01ha$1,200,000(last sale price)",https://www.realestate.co.nz/property/438-riccarton-road-west-north-taieri-dunedin-city-otago/01wjz6s3c,,,,,"$1,180,000",Low,"$1,200,000",9/04/2025,Low,$1.16M,Med,$1.18M,High,$1.19M,Updated 01/07/22,$1.18M,1 Jul 2022,"$630,000","$550,000",,2,226m2,2.01ha,,2
+84,"Last sold on
+      09/04/202589 Belford Street, Waverley311065m2$710,000(last sale price)",https://www.realestate.co.nz/property/89-belford-street-waverley-dunedin-city-otago/kgn4x0sr,,,,,"$705,000",Low,"$710,000",9/04/2025,Low,$605K,Med,$638K,High,$667K,Updated 01/07/22,$705K,1 Jul 2022,"$375,000","$330,000",3,1,130m2,1065m2,,1
+85,"Last sold on
+      09/04/20259 Connell Street, Waverley32639m2$910,000(last sale price)",https://www.realestate.co.nz/property/9-connell-street-waverley-dunedin-city-otago/1y8z3mtr,,,,,"$1,110,000",Low,"$910,000",9/04/2025,Low,$943K,Med,$1.03M,High,$1.12M,Updated 01/07/22,$1.11M,1 Jul 2022,"$625,000","$485,000",3,2,180m2,639m2,,2
+86,"Last sold on
+      08/04/202534 Chapman Street, Wakari3474m2$520,000(last sale price)",https://www.realestate.co.nz/property/34-chapman-street-wakari-dunedin-city-otago/nsl396fr,,,,,"$560,000",Low,"$520,000",8/04/2025,Low,$557K,Med,$587K,High,$613K,Updated 01/07/22,$560K,1 Jul 2022,"$250,000","$310,000",3,,130m2,474m2,,1
+87,"Last sold on
+      08/04/202553 Cranley Street, Saint Kilda31466m2$535,000(last sale price)",https://www.realestate.co.nz/property/53-cranley-street-saint-kilda-dunedin-city-otago/splhd93r,,,,,"$480,000",Low,"$535,000",8/04/2025,Low,$437K,Med,$481K,High,$515K,Updated 01/07/22,$480K,1 Jul 2022,"$430,000","$50,000",3,1,114m2,466m2,,1
+88,"Last sold on
+      08/04/20252D Bruce Street, Mosgiel21200m2$660,000(last sale price)",https://www.realestate.co.nz/property/2d-bruce-street-mosgiel-dunedin-city-otago/4jybr481d,,,,,"$700,000",Low,"$660,000",8/04/2025,Low,$629K,Med,$658K,High,$690K,Updated 01/07/22,$700K,1 Jul 2022,"$270,000","$430,000",2,1,120m2,200m2,,1
+89,"Last sold on
+      08/04/202595 Severn Street, Green Island32690m2$970,000(last sale price)",https://www.realestate.co.nz/property/95-severn-street-green-island-dunedin-city-otago/frrgwz81d,,,,,"$980,000",Low,"$970,000",8/04/2025,Low,$943K,Med,$999K,High,$1.05M,Updated 01/07/22,$980K,1 Jul 2022,"$400,000","$580,000",3,2,208m2,690m2,,2
+90,"Last sold on
+      08/04/2025255 Riccarton Road West, Mosgiel4314.57ha$1,405,000(last sale price)",https://www.realestate.co.nz/property/255-riccarton-road-west-mosgiel-dunedin-city-otago/hf5p15s3c,,,,,"$1,900,000",Low,"$1,405,000",8/04/2025,Low,$1.57M,Med,$1.76M,High,$1.95M,Updated 01/07/22,$1.9M,1 Jul 2022,"$1,180,000","$720,000",4,3,225m2,14.57ha,,2
+91,"Last sold on
+      08/04/20257 Wilkinson Street, Liberton31619m2$580,000(last sale price)",https://www.realestate.co.nz/property/7-wilkinson-street-liberton-dunedin-city-otago/k9dyv59q,,,,,"$540,000",Low,"$580,000",8/04/2025,Low,$495K,Med,$519K,High,$547K,Updated 01/07/22,$540K,1 Jul 2022,"$290,000","$250,000",3,1,120m2,619m2,,1
+92,"Last sold on
+      08/04/20254 Okahau Terrace, Warrington431008m2$1,200,000(last sale price)",https://www.realestate.co.nz/property/4-okahau-terrace-warrington-dunedin-city-otago/lgd6rb9Zk,,,,,"$1,300,000",Low,"$1,200,000",8/04/2025,Low,$1.18M,Med,$1.26M,High,$1.39M,Updated 01/07/22,$1.3M,1 Jul 2022,"$320,000","$980,000",4,3,270m2,1008m2,,2
+93,"Last sold on
+      08/04/20256 Grandview Crescent, Opoho31728m2$850,000(last sale price)",https://www.realestate.co.nz/property/6-grandview-crescent-opoho-dunedin-city-otago/k6xrpq8q,,,,,"$910,000",Low,"$850,000",8/04/2025,Low,$764K,Med,$834K,High,$876K,Updated 01/07/22,$910K,1 Jul 2022,"$550,000","$360,000",3,1,183m2,728m2,,1
+94,"Last sold on
+      08/04/202516B Cosy Dell Road, North Dunedin73564m2$1,060,000(last sale price)",https://www.realestate.co.nz/property/16b-cosy-dell-road-north-dunedin-dunedin-city-otago/wq2x833fk,,,,,"$1,075,000",Low,"$1,060,000",8/04/2025,Low,$922K,Med,$1.02M,High,$1.11M,Updated 01/07/22,$1.08M,1 Jul 2022,"$650,000","$425,000",7,3,184m2,564m2,,
+95,"Last sold on
+      07/04/202569 Hood Street, Wakari311012m2$690,000(last sale price)",https://www.realestate.co.nz/property/69-hood-street-wakari-dunedin-city-otago/tdw7hphr,"69 Hood Street, Wakari, Dunedin City",Perfectly Positioned,"Offering a tidy and well positioned three bedroom, one bathroom home with open plan kitchen and living area which is kept warm by a centrally located wood burner and heat pump.The bathroom layout offers a shower, bath, toilet and vanity.Features include the bonus fourth bedroom or study, the storage, the functional flow and the low maintenance section.This home benefits from a central location with easy access to several surrounding suburbs, making it appealing to a wide market. It’s close to the city, Roslyn’s shops and cafés, and is near Wakari Primary School, St Mary’s Primary School, Columba College, John McGlashan College, and several other local schools.No chattelsPets negotiableAvailable from Monday 02nd June 2025",dollar$580 per week,,,,,,,,,,,,,,,,3,1,,,,
+96,"Last sold on
+      07/04/202534A Drivers Road, Maori Hill21$609,000(last sale price)",https://www.realestate.co.nz/property/34a-drivers-road-maori-hill-dunedin-city-otago/y77ychdr,"34A Drivers Road, Maori Hill, Dunedin City","34A Drivers Road, Maori Hill","Sunny, spacious unit in prime Roslyn locationSet on sought-after Drivers Road, this well-maintained two-bedroom unit is one of just two and offers a rare blend of space, sun, and convenience.The north-facing lounge is warm and inviting, flowing into a light-filled dining area and original yet tidy kitchen with generous bench space. Both bedrooms are doubles with built-in wardrobes, while the bathroom includes a shower, bath, and separate toilet. A cleverly integrated laundry and excellent storage add practicality.Enjoy sunny afternoons on the private rear courtyard, a heat pump and nightstore heater for year-round comfort, and the ease of a single garage with auto door. Just steps from a bus stop and close to Roslyn Village and No.7 Balmac, a superb opportunity for comfortable, low-maintenance living in a popular location.Viewings: https://bookme.tenant.co.nz/tps7542Applications: https://apply.tpsportal.co.nz/tps7542",dollar$540 per week,,,,,,,,,,,,,,,,2,1,,,,
+97,"Last sold on
+      07/04/202578 Beresford Street, Wakari31496m2$510,000(last sale price)",https://www.realestate.co.nz/property/78-beresford-street-wakari-dunedin-city-otago/xllwgcfr,,,,,"$540,000",Low,"$510,000",7/04/2025,Low,$495K,Med,$519K,High,$548K,Updated 01/07/22,$540K,1 Jul 2022,"$280,000","$260,000",3,1,97m2,496m2,,
+98,"Last sold on
+      07/04/20258 Heriot Row, Dunedin Central72585m2$785,500(last sale price)",https://www.realestate.co.nz/property/8-heriot-row-dunedin-central-dunedin-city-otago/43zrf0qr,,,,,"$1,100,000",Low,"$785,500",7/04/2025,Low,$887K,Med,$988K,High,$1.1M,Updated 01/07/22,$1.1M,1 Jul 2022,"$780,000","$320,000",7,2,285m2,585m2,,2
+99,"Last sold on
+      07/04/20259 King Edward Street, Kensington31207m2$390,000(last sale price)",https://www.realestate.co.nz/property/9-king-edward-street-kensington-dunedin-city-otago/wp6dby1r,,,,,"$360,000",Low,"$390,000",7/04/2025,Low,$322K,Med,$348K,High,$369K,Updated 01/07/22,$360K,1 Jul 2022,"$170,000","$190,000",3,1,91m2,207m2,,
+100,"Last sold on
+      07/04/2025328 Brockville Road, Brockville-31642m2$520,000(last sale price)",https://www.realestate.co.nz/property/328-brockville-road-brockville-dunedin-city-otago/t9c2b7jr,,,,,"$545,000",Low,"$520,000",7/04/2025,Low,$472K,Med,$505K,High,$534K,Updated 01/07/22,$545K,1 Jul 2022,"$275,000","$270,000",-3,1,105m2,642m2,,
+101,"Last sold on
+      07/04/202512 Highcliff Road, Andersons Bay32549m2$839,000(last sale price)",https://www.realestate.co.nz/property/12-highcliff-road-andersons-bay-dunedin-city-otago/v8c6pxvr,,,,,"$710,000",Low,"$839,000",7/04/2025,Low,$657K,Med,$698K,High,$732K,Updated 01/07/22,$710K,1 Jul 2022,"$310,000","$400,000",3,2,180m2,549m2,,
+102,"Last sold on
+      07/04/202547 Main Road, Fairfield31568m2$650,000(last sale price)",https://www.realestate.co.nz/property/47-main-road-fairfield-dunedin-city-otago/m35v40ds,,,,,"$760,000",Low,"$650,000",7/04/2025,Low,$711K,Med,$752K,High,$802K,Updated 01/07/22,$760K,1 Jul 2022,"$300,000","$460,000",3,1,280m2,568m2,,2
+103,"Last sold on
+      07/04/202511/27 Saint Albans Street, Bradford41$545,000(last sale price)",https://www.realestate.co.nz/property/11-27-saint-albans-street-bradford-dunedin-city-otago/kgn4x0l7c,,,,,"$630,000",Low,"$545,000",7/04/2025,Low,$538K,Med,$576K,High,$617K,Updated 01/07/22,$630K,1 Jul 2022,"$160,000","$470,000",4,1,160m2,,,1
+104,"Last sold on
+      07/04/2025401 Malvern Street, Glenleith31860m2$530,000(last sale price)",https://www.realestate.co.nz/property/401-malvern-street-glenleith-dunedin-city-otago/6rjhn0br,,,,,"$540,000",Low,"$530,000",7/04/2025,Low,$547K,Med,$570K,High,$600K,Updated 01/07/22,$540K,1 Jul 2022,"$280,000","$260,000",3,1,91m2,860m2,,1
+105,"Recently sold15 Soper Road, Mosgiel321099m2Price is not yet confirmed",https://www.realestate.co.nz/property/15-soper-road-mosgiel-dunedin-city-otago/r582ltcs,,,,,"$640,000",Low,,,Low,$620K,Med,$655K,High,$682K,Updated 01/07/22,$640K,1 Jul 2022,"$345,000","$295,000",3,2,180m2,1099m2,,2
+106,"Last sold on
+      04/04/202517 Beach Street, Waikouaiti32913m2$570,000(last sale price)",https://www.realestate.co.nz/property/17-beach-street-waikouaiti-dunedin-city-otago/wdmj4f4q,,,,,"$380,000",Low,"$570,000",4/04/2025,Low,$375K,Med,$420K,High,$481K,Updated 01/07/22,$380K,1 Jul 2022,"$270,000","$110,000",3,2,138m2,913m2,,1
+107,"Last sold on
+      04/04/202541A Kauri Street, Ravensbourne21608m2$430,000(last sale price)",https://www.realestate.co.nz/property/41a-kauri-street-ravensbourne-dunedin-city-otago/j4fg5k6q,,,,,"$460,000",Low,"$430,000",4/04/2025,Low,$404K,Med,$424K,High,$453K,Updated 01/07/22,$460K,1 Jul 2022,"$240,000","$220,000",2,1,100m2,608m2,,1
+108,"Last sold on
+      04/04/20255 Epsilon Street, Belleknowes53692m2$860,000(last sale price)",https://www.realestate.co.nz/property/5-epsilon-street-belleknowes-dunedin-city-otago/l1k6xrkr,,,,,"$900,000",Low,"$860,000",4/04/2025,Low,$854K,Med,$887K,High,$952K,Updated 01/07/22,$900K,1 Jul 2022,"$415,000","$485,000",5,3,310m2,692m2,,3
+109,"Last sold on
+      04/04/202514A Burns Street, Port Chalmers31512m2$535,000(last sale price)",https://www.realestate.co.nz/property/14a-burns-street-port-chalmers-dunedin-city-otago/ylgjs74q,,,,,"$620,000",Low,"$535,000",4/04/2025,Low,$562K,Med,$604K,High,$645K,Updated 01/07/22,$620K,1 Jul 2022,"$320,000","$300,000",3,1,96m2,512m2,,2
+110,"Last sold on
+      04/04/2025160 Kenmure Road, Kenmure21387m2$555,000(last sale price)",https://www.realestate.co.nz/property/160-kenmure-road-kenmure-dunedin-city-otago/44v8c6kr,,,,,"$570,000",Low,"$555,000",4/04/2025,Low,$493K,Med,$526K,High,$551K,Updated 01/07/22,$570K,1 Jul 2022,"$280,000","$290,000",2,1,113m2,387m2,,1
+111,"Last sold on
+      04/04/202510 Shand Street, Green Island21463m2$479,000(last sale price)",https://www.realestate.co.nz/property/10-shand-street-green-island-dunedin-city-otago/4ktvpbbs,,,,,"$490,000",Low,"$479,000",4/04/2025,Low,$454K,Med,$471K,High,$501K,Updated 01/07/22,$490K,1 Jul 2022,"$270,000","$220,000",2,1,110m2,463m2,,1
+112,"Last sold on
+      03/04/2025243 Oxford Street, South Dunedin31455m2$403,500(last sale price)",https://www.realestate.co.nz/property/243-oxford-street-south-dunedin-dunedin-city-otago/s2nkr72r,,,,,"$440,000",Low,"$403,500",3/04/2025,Low,$413K,Med,$447K,High,$483K,Updated 01/07/22,$440K,1 Jul 2022,"$280,000","$160,000",3,1,120m2,455m2,,
+113,"Last sold on
+      03/04/202580 Greenock Street, Kaikorai41506m2$515,000(last sale price)",https://www.realestate.co.nz/property/80-greenock-street-kaikorai-dunedin-city-otago/y20r9mhr,,,,,"$490,000",Low,"$515,000",3/04/2025,Low,$463K,Med,$492K,High,$518K,Updated 01/07/22,$490K,1 Jul 2022,"$300,000","$190,000",4,1,120m2,506m2,,
+114,"Last sold on
+      03/04/2025188 Signal Hill Road, Opoho31744m2$660,000(last sale price)",https://www.realestate.co.nz/property/188-signal-hill-road-opoho-dunedin-city-otago/k7s8mx7q,,,,,"$650,000",Low,"$660,000",3/04/2025,Low,$571K,Med,$613K,High,$645K,Updated 01/07/22,$650K,1 Jul 2022,"$530,000","$120,000",3,1,130m2,744m2,,1
+115,"Last sold on
+      03/04/202541 Gordon Road, Mosgiel311012m2$750,000(last sale price)",https://www.realestate.co.nz/property/41-gordon-road-mosgiel-dunedin-city-otago/6gylgjls,,,,,"$920,000",Low,"$750,000",3/04/2025,Low,$745K,Med,$800K,High,$911K,Updated 01/07/22,$920K,1 Jul 2022,"$900,000","$20,000",3,1,173m2,1012m2,,1
+116,"Last sold on
+      03/04/202525 Forth Street, Mosgiel31483m2$580,000(last sale price)",https://www.realestate.co.nz/property/25-forth-street-mosgiel-dunedin-city-otago/tpg4p5js,,,,,"$540,000",Low,"$580,000",3/04/2025,Low,$484K,Med,$513K,High,$540K,Updated 01/07/22,$540K,1 Jul 2022,"$390,000","$150,000",3,1,94m2,483m2,,1
+117,"Last sold on
+      03/04/202526 Whitby Street, Mornington31373m2$486,000(last sale price)",https://www.realestate.co.nz/property/26-whitby-street-mornington-dunedin-city-otago/lj8s48kr,,,,,"$620,000",Low,"$486,000",3/04/2025,Low,$537K,Med,$570K,High,$602K,Updated 01/07/22,$620K,1 Jul 2022,"$280,000","$340,000",3,1,141m2,373m2,,
+118,"Last sold on
+      03/04/20256C Berwick Street, Mosgiel22220m2$665,000(last sale price)",https://www.realestate.co.nz/property/6c-berwick-street-mosgiel-dunedin-city-otago/qj8sD8Cbl,,,,,"$620,000",Low,"$665,000",3/04/2025,Low,$595K,Med,$621K,High,$640K,Updated 01/07/22,$620K,1 Jul 2022,"$215,000","$405,000",2,2,93m2,220m2,,1
+119,"Last sold on
+      03/04/202512 Silverdale Place, Mosgiel730m2$408,000(last sale price)",https://www.realestate.co.nz/property/12-silverdale-place-mosgiel-dunedin-city-otago/rQbPNpNXk,,,,,"$455,000",Low,"$408,000",3/04/2025,Low,$365K,Med,$415K,High,$472K,Updated 01/07/22,$455K,1 Jul 2022,"$455,000",$0,,,,730m2,,
+120,"Last sold on
+      03/04/202539 Paterson Road, Mosgiel9255m2$700,000(last sale price)",https://www.realestate.co.nz/property/39-paterson-road-mosgiel-dunedin-city-otago/l6sd0lcs,,,,,"$720,000",Low,"$700,000",3/04/2025,Low,$491K,Med,$602K,High,$696K,Updated 01/07/22,$720K,1 Jul 2022,"$720,000",$0,,,,9255m2,,
+121,"Last sold on
+      03/04/2025136 Morris Road, Fairfield311.11ha$780,000(last sale price)",https://www.realestate.co.nz/property/136-morris-road-fairfield-dunedin-city-otago/r9msqgfs,,,,,"$800,000",Low,"$780,000",3/04/2025,Low,$761K,Med,$769K,High,$793K,Updated 01/07/22,$800K,1 Jul 2022,"$440,000","$360,000",3,1,160m2,1.11ha,,2
+122,"Last sold on
+      03/04/202519 Rona Street, Saint Kilda31612m2$405,000(last sale price)",https://www.realestate.co.nz/property/19-rona-street-saint-kilda-dunedin-city-otago/r2sxfc4r,,,,,"$480,000",Low,"$405,000",3/04/2025,Low,$400K,Med,$441K,High,$482K,Updated 01/07/22,$480K,1 Jul 2022,"$460,000","$20,000",3,1,110m2,612m2,,
+123,"Last sold on
+      02/04/20254 Hawthorn Avenue, Mornington31463m2$438,000(last sale price)",https://www.realestate.co.nz/property/4-hawthorn-avenue-mornington-dunedin-city-otago/xqykl0kr,,,,,"$485,000",Low,"$438,000",2/04/2025,Low,$421K,Med,$450K,High,$476K,Updated 01/07/22,$485K,1 Jul 2022,"$225,000","$260,000",3,1,110m2,463m2,,
+124,"Last sold on
+      02/04/20252 Clifford Street, Dalmore31681m2$620,000(last sale price)",https://www.realestate.co.nz/property/2-clifford-street-dalmore-dunedin-city-otago/v0ntgm9q,,,,,"$620,000",Low,"$620,000",2/04/2025,Low,$538K,Med,$586K,High,$626K,Updated 01/07/22,$620K,1 Jul 2022,"$475,000","$145,000",3,1,150m2,681m2,,
+125,"Last sold on
+      02/04/202531B Woodland Avenue, Mosgiel31442m2$730,000(last sale price)",https://www.realestate.co.nz/property/31b-woodland-avenue-mosgiel-dunedin-city-otago/59y3rxks,,,,,"$740,000",Low,"$730,000",2/04/2025,Low,$726K,Med,$748K,High,$778K,Updated 01/07/22,$740K,1 Jul 2022,"$320,000","$420,000",3,1,174m2,442m2,,2
+126,"Last sold on
+      02/04/202520 Turner Street, Halfway Bush31673m2$612,000(last sale price)",https://www.realestate.co.nz/property/20-turner-street-halfway-bush-dunedin-city-otago/s486yhcr,,,,,"$610,000",Low,"$612,000",2/04/2025,Low,$561K,Med,$590K,High,$617K,Updated 01/07/22,$610K,1 Jul 2022,"$330,000","$280,000",3,1,113m2,673m2,,
+127,"Last sold on
+      02/04/202531 Forfar Street, Mosgiel31$525,000(last sale price)",https://www.realestate.co.nz/property/31-forfar-street-mosgiel-dunedin-city-otago/myyn25ls,,,,,"$415,000",Low,"$525,000",2/04/2025,Low,$404K,Med,$440K,High,$481K,Updated 01/07/22,$415K,1 Jul 2022,"$250,000","$165,000",3,1,80m2,,,1
+128,"Last sold on
+      02/04/202517 Wakari Road, Halfway Bush311836m2$605,000(last sale price)",https://www.realestate.co.nz/property/17-wakari-road-halfway-bush-dunedin-city-otago/1hgxv9br,,,,,"$560,000",Low,"$605,000",2/04/2025,Low,$507K,Med,$534K,High,$568K,Updated 01/07/22,$560K,1 Jul 2022,"$250,000","$310,000",3,1,100m2,1836m2,,1
+129,"Last sold on
+      02/04/202545 Cockerell Street, Brockville21647m2$482,500(last sale price)",https://www.realestate.co.nz/property/45-cockerell-street-brockville-dunedin-city-otago/952zwsjr,,,,,"$445,000",Low,"$482,500",2/04/2025,Low,$390K,Med,$414K,High,$439K,Updated 01/07/22,$445K,1 Jul 2022,"$235,000","$210,000",2,1,80m2,647m2,,
+130,"Last sold on
+      02/04/202518 Stewart Street, Waikouaiti21864m2$337,000(last sale price)",https://www.realestate.co.nz/property/18-stewart-street-waikouaiti-dunedin-city-otago/5clsz53q,,,,,"$450,000",Low,"$337,000",2/04/2025,Low,$404K,Med,$439K,High,$475K,Updated 01/07/22,$450K,1 Jul 2022,"$265,000","$185,000",2,1,71m2,864m2,,1
+131,"Last sold on
+      02/04/20256 Quarry Road, Green Island31517m2$480,000(last sale price)",https://www.realestate.co.nz/property/6-quarry-road-green-island-dunedin-city-otago/pkmwb09r,,,,,"$500,000",Low,"$480,000",2/04/2025,Low,$442K,Med,$463K,High,$487K,Updated 01/07/22,$500K,1 Jul 2022,"$220,000","$280,000",3,1,105m2,517m2,,
+132,"Last sold on
+      01/04/2025149 Taieri Road, Kaikorai31266m2$583,000(last sale price)",https://www.realestate.co.nz/property/149-taieri-road-kaikorai-dunedin-city-otago/4snqzfhr,,,,,"$580,000",Low,"$583,000",1/04/2025,Low,$534K,Med,$562K,High,$588K,Updated 01/07/22,$580K,1 Jul 2022,"$280,000","$300,000",3,1,150m2,266m2,,2
+133,"Last sold on
+      01/04/2025280 Main South Road, Green Island3411m2$475,000(last sale price)",https://www.realestate.co.nz/property/280-main-south-road-green-island-dunedin-city-otago/tz10wnbs,,,,,"$280,000",Low,"$475,000",1/04/2025,Low,$253K,Med,$287K,High,$323K,Updated 01/07/22,$280K,1 Jul 2022,"$280,000",$0,,,,3411m2,,
+134,"Last sold on
+      01/04/202533 District Road, Roseneath311012m2$650,000(last sale price)",https://www.realestate.co.nz/property/33-district-road-roseneath-dunedin-city-otago/q80z4h5q,,,,,"$610,000",Low,"$650,000",1/04/2025,Low,$571K,Med,$615K,High,$647K,Updated 01/07/22,$610K,1 Jul 2022,"$415,000","$195,000",3,1,190m2,1012m2,,3
+135,"Last sold on
+      31/03/202521A Quarry Road, Green Island31544m2$585,000(last sale price)",https://www.realestate.co.nz/property/21a-quarry-road-green-island-dunedin-city-otago/d4ywx19r,,,,,"$615,000",Low,"$585,000",31/03/2025,Low,$556K,Med,$575K,High,$605K,Updated 01/07/22,$615K,1 Jul 2022,"$185,000","$430,000",3,1,96m2,544m2,,2
+136,"Last sold on
+      31/03/202537 Green Street, Mosgiel32697m2$675,000(last sale price)",https://www.realestate.co.nz/property/37-green-street-mosgiel-dunedin-city-otago/3bzzd7hs,,,,,"$660,000",Low,"$675,000",31/03/2025,Low,$599K,Med,$634K,High,$664K,Updated 01/07/22,$660K,1 Jul 2022,"$385,000","$275,000",3,2,96m2,697m2,,
+137,"Last sold on
+      31/03/202518 Ross Street, Mosgiel31699m2$650,000(last sale price)",https://www.realestate.co.nz/property/18-ross-street-mosgiel-dunedin-city-otago/vzxn6jjs,,,,,"$580,000",Low,"$650,000",31/03/2025,Low,$544K,Med,$572K,High,$597K,Updated 01/07/22,$580K,1 Jul 2022,"$350,000","$230,000",3,1,99m2,699m2,,1
+138,"Last sold on
+      31/03/202544 David Street, Caversham2355m2$500,000(last sale price)",https://www.realestate.co.nz/property/44-david-street-caversham-dunedin-city-otago/dwfqJ6WYk,,,,,"$640,000",Low,"$500,000",31/03/2025,Low,$535K,Med,$563K,High,$591K,Updated 01/07/22,$640K,1 Jul 2022,"$160,000","$480,000",2,3,79m2,55m2,,
+139,"Last sold on
+      31/03/2025138 Bull Creek Road, Henley7.93ha$1,320,000(last sale price)",https://www.realestate.co.nz/property/138-bull-creek-road-henley-dunedin-city-otago/7cb2lyhs,,,,,"$1,020,000",,"$1,320,000",31/03/2025,,,,,,,,,1 Jul 2022,"$610,000","$410,000",,,133m2,7.93ha,,2
+140,"Last sold on
+      31/03/202518 Parklands Avenue, Mosgiel2$680,000(last sale price)",https://www.realestate.co.nz/property/18-parklands-avenue-mosgiel-dunedin-city-otago/hgxv97ms,,,,,"$700,000",Low,"$680,000",31/03/2025,Low,$650K,Med,$696K,High,$738K,Updated 01/07/22,$700K,1 Jul 2022,"$215,000","$485,000",2,,130m2,,,2
+141,"Last sold on
+      31/03/202523C Cargill Street, Dunedin Central53$857,500(last sale price)",https://www.realestate.co.nz/property/23c-cargill-street-dunedin-central-dunedin-city-otago/6t8hkdbv,,,,,"$840,000",Low,"$857,500",31/03/2025,Low,$857K,Med,$865K,High,$874K,Updated 01/07/22,$840K,1 Jul 2022,"$320,000","$520,000",5,3,148m2,,,
+142,"Last sold on
+      31/03/202523A Cargill Street, Dunedin Central53$857,500(last sale price)",https://www.realestate.co.nz/property/23a-cargill-street-dunedin-central-dunedin-city-otago/wsplhdbv,,,,,"$840,000",Low,"$857,500",31/03/2025,Low,$857K,Med,$865K,High,$874K,Updated 01/07/22,$840K,1 Jul 2022,"$320,000","$520,000",5,3,148m2,,,
+143,"Last sold on
+      31/03/202538 Severn Street, Green Island21492m2$720,000(last sale price)",https://www.realestate.co.nz/property/38-severn-street-green-island-dunedin-city-otago/w7hprq0y,,,,,"$680,000",Low,"$720,000",31/03/2025,Low,$664K,Med,$707K,High,$751K,Updated 01/07/22,$680K,1 Jul 2022,"$250,000","$430,000",2,1,140m2,492m2,,2
+144,"Last sold on
+      31/03/202523B Cargill Street, Dunedin Central53$855,000(last sale price)",https://www.realestate.co.nz/property/23b-cargill-street-dunedin-central-dunedin-city-otago/19gkjdbv,,,,,"$840,000",Low,"$855,000",31/03/2025,Low,$857K,Med,$865K,High,$874K,Updated 01/07/22,$840K,1 Jul 2022,"$320,000","$520,000",5,3,148m2,,,
+145,"Last sold on
+      31/03/2025291 Gladstone Road North, Mosgiel52974m2$990,000(last sale price)",https://www.realestate.co.nz/property/291-gladstone-road-north-mosgiel-dunedin-city-otago/3vdrwt9v,,,,,"$790,000",Low,"$990,000",31/03/2025,Low,$807K,Med,$854K,High,$908K,Updated 01/07/22,$790K,1 Jul 2022,"$330,000","$460,000",5,2,189m2,974m2,,2
+146,"Last sold on
+      31/03/202549 Canongate, Dunedin Central11255m2$299,000(last sale price)",https://www.realestate.co.nz/property/49-canongate-dunedin-central-dunedin-city-otago/vmq3sspr,,,,,"$375,000",Low,"$299,000",31/03/2025,Low,$296K,Med,$335K,High,$370K,Updated 01/07/22,$375K,1 Jul 2022,"$290,000","$85,000",1,1,40m2,255m2,,
+147,"Last sold on
+      31/03/202551 Magdala Street, Tainui32254m2$511,000(last sale price)",https://www.realestate.co.nz/property/51-magdala-street-tainui-dunedin-city-otago/r8r8r8wr,,,,,"$575,000",Low,"$511,000",31/03/2025,Low,$513K,Med,$543K,High,$573K,Updated 01/07/22,$575K,1 Jul 2022,"$265,000","$310,000",3,2,118m2,254m2,,
+148,"Last sold on
+      31/03/2025298 Gladstone Road North, Mosgiel31754m2$715,000(last sale price)",https://www.realestate.co.nz/property/298-gladstone-road-north-mosgiel-dunedin-city-otago/wgck1t9v,,,,,"$680,000",Low,"$715,000",31/03/2025,Low,$651K,Med,$689K,High,$727K,Updated 01/07/22,$680K,1 Jul 2022,"$310,000","$370,000",3,1,110m2,754m2,,1
+149,"Last sold on
+      31/03/202516A Cosy Dell Road, North Dunedin73230m2$1,060,000(last sale price)",https://www.realestate.co.nz/property/16a-cosy-dell-road-north-dunedin-dunedin-city-otago/q68y733fk,,,,,"$990,000",Low,"$1,060,000",31/03/2025,Low,$896K,Med,$964K,High,$1.04M,Updated 01/07/22,$990K,1 Jul 2022,"$425,000","$565,000",7,3,171m2,230m2,,
+150,"Last sold on
+      31/03/202535E Factory Road, Mosgiel21144m2$545,000(last sale price)",https://www.realestate.co.nz/property/35e-factory-road-mosgiel-dunedin-city-otago/fqp0ByLYk,,,,,"$510,000",Low,"$545,000",31/03/2025,Low,$455K,Med,$480K,High,$501K,Updated 01/07/22,$510K,1 Jul 2022,"$210,000","$300,000",2,1,74m2,144m2,,
+151,"Last sold on
+      31/03/202599 Shetland Street, Wakari41999m2$662,500(last sale price)",https://www.realestate.co.nz/property/99-shetland-street-wakari-dunedin-city-otago/98k517dr,,,,,"$680,000",Low,"$662,500",31/03/2025,Low,$614K,Med,$647K,High,$674K,Updated 01/07/22,$680K,1 Jul 2022,"$370,000","$310,000",4,1,131m2,999m2,,2
+152,"Last sold on
+      31/03/202516 Ethel Street, Wakari32590m2$630,000(last sale price)",https://www.realestate.co.nz/property/16-ethel-street-wakari-dunedin-city-otago/7wrt2jfr,,,,,"$630,000",Low,"$630,000",31/03/2025,Low,$589K,Med,$619K,High,$647K,Updated 01/07/22,$630K,1 Jul 2022,"$335,000","$295,000",3,2,134m2,590m2,,2
+153,"Last sold on
+      31/03/202510 Hall Street, Mosgiel31594m2$551,000(last sale price)",https://www.realestate.co.nz/property/10-hall-street-mosgiel-dunedin-city-otago/tgm8d2ls,,,,,"$560,000",Low,"$551,000",31/03/2025,Low,$523K,Med,$549K,High,$573K,Updated 01/07/22,$560K,1 Jul 2022,"$385,000","$175,000",3,1,104m2,594m2,,1
+154,"Last sold on
+      30/03/202517 Fingall Street, South Dunedin21$448,000(last sale price)",https://www.realestate.co.nz/property/17-fingall-street-south-dunedin-dunedin-city-otago/2ly20r2r,,,,,"$405,000",Low,"$448,000",30/03/2025,Low,$398K,Med,$416K,High,$439K,Updated 01/07/22,$405K,1 Jul 2022,"$210,000","$195,000",2,1,100m2,,,1
+155,"Recently sold10 Dover Street, Liberton211427m2Price is not yet confirmed",https://www.realestate.co.nz/property/10-dover-street-liberton-dunedin-city-otago/lj8s489q,,,,,"$420,000",Low,,,Low,$351K,Med,$381K,High,$408K,Updated 01/07/22,$420K,1 Jul 2022,"$230,000","$190,000",2,1,90m2,1427m2,,
+156,"Last sold on
+      28/03/202565 Signal Hill Road, Opoho42387m2$650,000(last sale price)",https://www.realestate.co.nz/property/65-signal-hill-road-opoho-dunedin-city-otago/d32czv8q,,,,,"$690,000",Low,"$650,000",28/03/2025,Low,$632K,Med,$657K,High,$700K,Updated 01/07/22,$690K,1 Jul 2022,"$350,000","$340,000",4,2,141m2,387m2,,2
+157,"Last sold on
+      28/03/202583 Tahuna Road, Tainui31583m2$540,000(last sale price)",https://www.realestate.co.nz/property/83-tahuna-road-tainui-dunedin-city-otago/1hgxv9wr,,,,,"$550,000",Low,"$540,000",28/03/2025,Low,$490K,Med,$518K,High,$543K,Updated 01/07/22,$550K,1 Jul 2022,"$250,000","$300,000",3,1,100m2,583m2,,1
+158,"Last sold on
+      28/03/202546A Kenmure Road, Belleknowes31567m2$620,000(last sale price)",https://www.realestate.co.nz/property/46a-kenmure-road-belleknowes-dunedin-city-otago/c2b7pskr,,,,,"$640,000",Low,"$620,000",28/03/2025,Low,$557K,Med,$593K,High,$616K,Updated 01/07/22,$640K,1 Jul 2022,"$315,000","$325,000",3,1,103m2,567m2,,
+159,"Last sold on
+      28/03/2025978 Brighton Road, Brighton211310m2$700,000(last sale price)",https://www.realestate.co.nz/property/978-brighton-road-brighton-dunedin-city-otago/qv2dvcgs,,,,,"$700,000",Low,"$700,000",28/03/2025,Low,$564K,Med,$627K,High,$686K,Updated 01/07/22,$700K,1 Jul 2022,"$580,000","$120,000",2,1,90m2,1310m2,,1
+160,"Last sold on
+      28/03/202512 Beaumaris Street, Outram521012m2$1,010,000(last sale price)",https://www.realestate.co.nz/property/12-beaumaris-street-outram-dunedin-city-otago/ghxqykhs,,,,,"$800,000",Low,"$1,010,000",28/03/2025,Low,$805K,Med,$868K,High,$934K,Updated 01/07/22,$800K,1 Jul 2022,"$340,000","$460,000",5,2,211m2,1012m2,,2
+161,"Last sold on
+      28/03/2025106 Glenross Street, Glenross44779m2$855,000(last sale price)",https://www.realestate.co.nz/property/106-glenross-street-glenross-dunedin-city-otago/mcx7cbjr,,,,,"$880,000",Low,"$855,000",28/03/2025,Low,$855K,Med,$888K,High,$941K,Updated 01/07/22,$880K,1 Jul 2022,"$280,000","$600,000",4,4,282m2,779m2,,2
+162,"Last sold on
+      28/03/202519 Douglas Street, Saint Kilda32372m2$710,000(last sale price)",https://www.realestate.co.nz/property/19-douglas-street-saint-kilda-dunedin-city-otago/80z4h24r,,,,,"$690,000",Low,"$710,000",28/03/2025,Low,$638K,Med,$669K,High,$694K,Updated 01/07/22,$690K,1 Jul 2022,"$270,000","$420,000",3,2,157m2,372m2,,2
+163,"Last sold on
+      28/03/202525 Hyde Street, North Dunedin228m2$720,000(last sale price)",https://www.realestate.co.nz/property/25-hyde-street-north-dunedin-dunedin-city-otago/x4rs60rr,,,,,"$690,000",Low,"$720,000",28/03/2025,Low,$507K,Med,$564K,High,$614K,Updated 01/07/22,$690K,1 Jul 2022,"$430,000","$260,000",,,95m2,228m2,,
+164,"Last sold on
+      28/03/202519 Cole Street, Caversham31365m2$565,000(last sale price)",https://www.realestate.co.nz/property/19-cole-street-caversham-dunedin-city-otago/qt6ww5xr,,,,,"$530,000",Low,"$565,000",28/03/2025,Low,$453K,Med,$481K,High,$503K,Updated 01/07/22,$530K,1 Jul 2022,"$180,000","$350,000",3,1,92m2,365m2,,
+165,"Last sold on
+      28/03/202545 Gresham Street, Tainui41803m2$620,000(last sale price)",https://www.realestate.co.nz/property/45-gresham-street-tainui-dunedin-city-otago/9lx6htvr,,,,,"$630,000",Low,"$620,000",28/03/2025,Low,$561K,Med,$595K,High,$624K,Updated 01/07/22,$630K,1 Jul 2022,"$360,000","$270,000",4,1,130m2,803m2,,1
+166,"Last sold on
+      27/03/202525 Ryehill Street, Calton Hill21508m2$407,500(last sale price)",https://www.realestate.co.nz/property/25-ryehill-street-calton-hill-dunedin-city-otago/kk492gzr,,,,,"$530,000",Low,"$407,500",27/03/2025,Low,$457K,Med,$487K,High,$520K,Updated 01/07/22,$530K,1 Jul 2022,"$265,000","$265,000",2,1,120m2,508m2,,2
+167,"Last sold on
+      27/03/20253/138 Macandrew Road, South Dunedin21$335,000(last sale price)",https://www.realestate.co.nz/property/3-138-macandrew-road-south-dunedin-dunedin-city-otago/pypypy7z,,,,,"$350,000",Low,"$335,000",27/03/2025,Low,$319K,Med,$337K,High,$350K,Updated 01/07/22,$350K,1 Jul 2022,"$155,000","$195,000",2,1,50m2,,,1
+168,"Last sold on
+      27/03/202543 Arthur Street, Dunedin Central63192m2$700,000(last sale price)",https://www.realestate.co.nz/property/43-arthur-street-dunedin-central-dunedin-city-otago/9fp0fzpr,,,,,"$760,000",Low,"$700,000",27/03/2025,Low,$622K,Med,$672K,High,$724K,Updated 01/07/22,$760K,1 Jul 2022,"$235,000","$525,000",6,3,250m2,192m2,,
+169,"Last sold on
+      27/03/202576 Fawcett Street, South Dunedin31283m2$331,000(last sale price)",https://www.realestate.co.nz/property/76-fawcett-street-south-dunedin-dunedin-city-otago/fcpdj12r,,,,,"$345,000",Low,"$331,000",27/03/2025,Low,$310K,Med,$333K,High,$366K,Updated 01/07/22,$345K,1 Jul 2022,"$215,000","$130,000",3,1,92m2,283m2,,1
+170,"Last sold on
+      27/03/202544 Mcmeakin Road, Abbotsford1.38ha$520,000(last sale price)",https://www.realestate.co.nz/property/44-mcmeakin-road-abbotsford-dunedin-city-otago/plhd95ds,,,,,"$630,000",,"$520,000",27/03/2025,,,,,,,,,1 Jul 2022,"$620,000","$10,000",,,,1.38ha,,
+171,"Last sold on
+      27/03/2025148 Melbourne Street, South Dunedin31643m2$540,000(last sale price)",https://www.realestate.co.nz/property/148-melbourne-street-south-dunedin-dunedin-city-otago/fbtwkv2r,,,,,"$610,000",Low,"$540,000",27/03/2025,Low,$515K,Med,$545K,High,$580K,Updated 01/07/22,$610K,1 Jul 2022,"$315,000","$295,000",3,1,109m2,643m2,,1
+172,"Last sold on
+      27/03/202531 Plunket Street, Saint Kilda31395m2$620,000(last sale price)",https://www.realestate.co.nz/property/31-plunket-street-saint-kilda-dunedin-city-otago/41c36q5r,,,,,"$700,000",Low,"$620,000",27/03/2025,Low,$525K,Med,$608K,High,$631K,Updated 01/07/22,$700K,1 Jul 2022,"$310,000","$390,000",3,1,127m2,395m2,,
+173,"Last sold on
+      27/03/20258B Bellona Street, Saint Kilda21$440,000(last sale price)",https://www.realestate.co.nz/property/8b-bellona-street-saint-kilda-dunedin-city-otago/ph063q4r,,,,,"$425,000",Low,"$440,000",27/03/2025,Low,$384K,Med,$403K,High,$423K,Updated 01/07/22,$425K,1 Jul 2022,"$195,000","$230,000",2,1,80m2,,,1
+174,"Last sold on
+      27/03/202528 Frasers Road, Glenross31574m2$365,000(last sale price)",https://www.realestate.co.nz/property/28-frasers-road-glenross-dunedin-city-otago/84bvmqhr,,,,,"$510,000",Low,"$365,000",27/03/2025,Low,$425K,Med,$469K,High,$501K,Updated 01/07/22,$510K,1 Jul 2022,"$155,000","$355,000",3,1,100m2,574m2,,1
+175,"Last sold on
+      26/03/202514 Hugh Street, Sawyers Bay21756m2$580,000(last sale price)",https://www.realestate.co.nz/property/14-hugh-street-sawyers-bay-dunedin-city-otago/zjl45q5q,,,,,"$570,000",Low,"$580,000",26/03/2025,Low,$521K,Med,$550K,High,$573K,Updated 01/07/22,$570K,1 Jul 2022,"$275,000","$295,000",2,1,100m2,756m2,,1
+176,"Last sold on
+      26/03/20255 Doon Street, Mosgiel2775m2$530,000(last sale price)",https://www.realestate.co.nz/property/5-doon-street-mosgiel-dunedin-city-otago/607vw9hs,,,,,"$550,000",Low,"$530,000",26/03/2025,Low,$476K,Med,$518K,High,$570K,Updated 01/07/22,$550K,1 Jul 2022,"$465,000","$85,000",2,,90m2,775m2,,2
+177,"Last sold on
+      26/03/202531 Lawrence Street, Mornington421525m2$640,000(last sale price)",https://www.realestate.co.nz/property/31-lawrence-street-mornington-dunedin-city-otago/k492gglr,,,,,"$710,000",Low,"$640,000",26/03/2025,Low,$610K,Med,$654K,High,$694K,Updated 01/07/22,$710K,1 Jul 2022,"$290,000","$420,000",4,2,191m2,1525m2,,1
+178,"Last sold on
+      26/03/20256 Exeter Street, Abbotsford31911m2$565,000(last sale price)",https://www.realestate.co.nz/property/6-exeter-street-abbotsford-dunedin-city-otago/xdh5fb9r,,,,,"$570,000",Low,"$565,000",26/03/2025,Low,$534K,Med,$564K,High,$592K,Updated 01/07/22,$570K,1 Jul 2022,"$330,000","$240,000",3,1,110m2,911m2,,1
+179,"Last sold on
+      26/03/202519 Dundonald Street, Tainui42703m2$780,000(last sale price)",https://www.realestate.co.nz/property/19-dundonald-street-tainui-dunedin-city-otago/lxbwh7wr,,,,,"$780,000",Low,"$780,000",26/03/2025,Low,$686K,Med,$730K,High,$770K,Updated 01/07/22,$780K,1 Jul 2022,"$255,000","$525,000",4,2,205m2,703m2,,1
+180,"Last sold on
+      26/03/202595 Marlow Street, Musselburgh3607m2$415,000(last sale price)",https://www.realestate.co.nz/property/95-marlow-street-musselburgh-dunedin-city-otago/r64lk0wr,,,,,"$560,000",Low,"$415,000",26/03/2025,Low,$466K,Med,$505K,High,$543K,Updated 01/07/22,$560K,1 Jul 2022,"$530,000","$30,000",3,,120m2,607m2,,2
+181,"Last sold on
+      26/03/202520 Peter Street, Caversham21309m2$276,000(last sale price)",https://www.realestate.co.nz/property/20-peter-street-caversham-dunedin-city-otago/zm29b6xr,,,,,"$390,000",Low,"$276,000",26/03/2025,Low,$334K,Med,$364K,High,$392K,Updated 01/07/22,$390K,1 Jul 2022,"$180,000","$210,000",2,1,90m2,309m2,,
+182,"Last sold on
+      26/03/202589 Coast Road, Warrington211257m2$360,000(last sale price)",https://www.realestate.co.nz/property/89-coast-road-warrington-dunedin-city-otago/g3tnlm1q,,,,,"$475,000",Low,"$360,000",26/03/2025,Low,$384K,Med,$415K,High,$445K,Updated 01/07/22,$475K,1 Jul 2022,"$265,000","$210,000",2,1,92m2,1257m2,,1
+183,"Last sold on
+      26/03/202511 Kilgour Street, Roslyn52529m2$688,445(last sale price)",https://www.realestate.co.nz/property/11-kilgour-street-roslyn-dunedin-city-otago/8y73lpgr,,,,,"$710,000",Low,"$688,445",26/03/2025,Low,$605K,Med,$670K,High,$741K,Updated 01/07/22,$710K,1 Jul 2022,"$670,000","$40,000",5,2,211m2,529m2,,
+184,"Last sold on
+      26/03/202581A Musselburgh Rise, Musselburgh21$460,000(last sale price)",https://www.realestate.co.nz/property/81a-musselburgh-rise-musselburgh-dunedin-city-otago/q3ss2nwr,,,,,"$480,000",Low,"$460,000",26/03/2025,Low,$424K,Med,$452K,High,$484K,Updated 01/07/22,$480K,1 Jul 2022,"$190,000","$290,000",2,1,170m2,,,1
+185,"Last sold on
+      26/03/202551 Centennial Avenue, Helensburgh311321m2$630,000(last sale price)",https://www.realestate.co.nz/property/51-centennial-avenue-helensburgh-dunedin-city-otago/c1l2fqcr,,,,,"$640,000",Low,"$630,000",26/03/2025,Low,$590K,Med,$620K,High,$652K,Updated 01/07/22,$640K,1 Jul 2022,"$380,000","$260,000",3,1,130m2,1321m2,,2
+186,"Last sold on
+      26/03/202530 Wray Street, Brockville31690m2$522,500(last sale price)",https://www.realestate.co.nz/property/30-wray-street-brockville-dunedin-city-otago/5qsbdyjr,,,,,"$585,000",Low,"$522,500",26/03/2025,Low,$514K,Med,$536K,High,$558K,Updated 01/07/22,$585K,1 Jul 2022,"$275,000","$310,000",3,1,130m2,690m2,,1
+187,"Last sold on
+      26/03/202564 Perth Street, Mosgiel32700m2$649,000(last sale price)",https://www.realestate.co.nz/property/64-perth-street-mosgiel-dunedin-city-otago/sy9vmlks,,,,,"$670,000",Low,"$649,000",26/03/2025,Low,$633K,Med,$658K,High,$701K,Updated 01/07/22,$670K,1 Jul 2022,"$385,000","$285,000",3,2,125m2,700m2,,1
+188,"Last sold on
+      26/03/202528B Forfar Street, Mosgiel21$420,000(last sale price)",https://www.realestate.co.nz/property/28b-forfar-street-mosgiel-dunedin-city-otago/vx5m94ls,,,,,"$355,000",Low,"$420,000",26/03/2025,Low,$329K,Med,$356K,High,$376K,Updated 01/07/22,$355K,1 Jul 2022,"$170,000","$185,000",2,1,60m2,,,1
+189,"Last sold on
+      25/03/2025113A Richardson Street, Saint Kilda31395m2$400,000(last sale price)",https://www.realestate.co.nz/property/113a-richardson-street-saint-kilda-dunedin-city-otago/c8fyqt5r,,,,,"$500,000",Low,"$400,000",25/03/2025,Low,$429K,Med,$466K,High,$500K,Updated 01/07/22,$500K,1 Jul 2022,"$325,000","$175,000",3,1,111m2,395m2,,
+190,"Last sold on
+      25/03/20257 Norwood Street, Normanby41529m2$553,600(last sale price)",https://www.realestate.co.nz/property/7-norwood-street-normanby-dunedin-city-otago/5X8g2dHk,,,,,"$440,000",Low,"$553,600",25/03/2025,Low,$409K,Med,$447K,High,$486K,Updated 01/07/22,$440K,1 Jul 2022,"$315,000","$125,000",4,1,120m2,529m2,,
+191,"Last sold on
+      25/03/20253 Dundee Road, Mosgiel42823m2$960,000(last sale price)",https://www.realestate.co.nz/property/3-dundee-road-mosgiel-dunedin-city-otago/0r9msq8gk,,,,,"$920,000",Low,"$960,000",25/03/2025,Low,$912K,Med,$955K,High,$983K,Updated 01/07/22,$920K,1 Jul 2022,"$470,000","$450,000",4,2,185m2,823m2,,2
+192,"Last sold on
+      25/03/20251 Thorn Street, Caversham21142m2$510,000(last sale price)",https://www.realestate.co.nz/property/1-thorn-street-caversham-dunedin-city-otago/2x83gb1r,,,,,"$435,000",Low,"$510,000",25/03/2025,Low,$379K,Med,$413K,High,$439K,Updated 01/07/22,$435K,1 Jul 2022,"$175,000","$260,000",2,1,62m2,142m2,,
+193,"Last sold on
+      24/03/202522 Henry Street, Waikouaiti322081m2$491,000(last sale price)",https://www.realestate.co.nz/property/22-henry-street-waikouaiti-dunedin-city-otago/7gt7rd4q,,,,,"$465,000",Low,"$491,000",24/03/2025,Low,$469K,Med,$504K,High,$555K,Updated 01/07/22,$465K,1 Jul 2022,"$350,000","$115,000",3,2,103m2,2081m2,,
+194,"Last sold on
+      22/03/2025133 Tahuna Road, Andersons Bay31878m2$680,000(last sale price)",https://www.realestate.co.nz/property/133-tahuna-road-andersons-bay-dunedin-city-otago/63q11rvr,,,,,"$730,000",Low,"$680,000",22/03/2025,Low,$649K,Med,$680K,High,$720K,Updated 01/07/22,$730K,1 Jul 2022,"$350,000","$380,000",3,1,121m2,878m2,,3
+195,"Last sold on
+      21/03/202545 Aberdeen Road, Saint Clair321126m2$1,000,000(last sale price)",https://www.realestate.co.nz/property/45-aberdeen-road-saint-clair-dunedin-city-otago/qxp21m0r,"45 Aberdeen Road, Saint Clair, Dunedin City",Elevated Family Living with Breathtaking Views,"Welcome to 45 Aberdeen Road in the heart of beautiful St Clair, Dunedin — where spectacular coastal views meet generous family living.This fantastic three-bedroom home is perfectly positioned to capture some of the most breathtaking beach and ocean vistas Dunedin has to offer. Whether you're enjoying your morning coffee or entertaining friends, the expansive deck provides an unbeatable backdrop of sunrises, waves, and wide-open skies.Step inside and be greeted by a light-filled, open-plan layout that brings the outdoors in. The modern kitchen includes laundry facilities and flows seamlessly into the spacious dining and lounge area — all leading out to that incredible deck. It's an entertainer’s dream, and a peaceful haven for everyday family life.Each of the three generous bedrooms offers comfort and space. The master bedroom features direct access to a private courtyard, while the second bedroom offers convenient, direct bathroom access.Downstairs, you’ll find exceptional basement storage, fantastic garaging, and ample off-street parking – ideal for busy households or those with outdoor gear to stow.Set privately off the street in one of Dunedin’s most sought-after suburbs, you’ll enjoy the peace and quiet of St Clair living while being just a short drive from the local beach, cafés, schools, and everyday amenities.This is more than just a home – it’s a lifestyle.Don’t miss your chance to live with a view like this. Contact us today to arrange a viewing at 45 Aberdeen Road, St Clair.",dollar$730 per week,,,,,,,,,,,,,,,,3,2,,,,
+196,"Last sold on
+      21/03/202574 Tainui Road, Tainui31359m2$520,000(last sale price)",https://www.realestate.co.nz/property/74-tainui-road-tainui-dunedin-city-otago/bj9nn7wr,,,,,"$510,000",Low,"$520,000",21/03/2025,Low,$463K,Med,$495K,High,$522K,Updated 01/07/22,$510K,1 Jul 2022,"$355,000","$155,000",3,1,105m2,359m2,,1
+197,"Last sold on
+      21/03/202535 Thorn Street, Caversham51283m2$610,000(last sale price)",https://www.realestate.co.nz/property/35-thorn-street-caversham-dunedin-city-otago/4dlnmhyr,,,,,"$590,000",Low,"$610,000",21/03/2025,Low,$538K,Med,$570K,High,$594K,Updated 01/07/22,$590K,1 Jul 2022,"$180,000","$410,000",5,1,112m2,283m2,,1
+198,"Last sold on
+      21/03/202529 Beechworth Street, North East Valley31426m2$527,000(last sale price)",https://www.realestate.co.nz/property/29-beechworth-street-north-east-valley-dunedin-city-otago/nzptb86q,,,,,"$370,000",Low,"$527,000",21/03/2025,Low,$363K,Med,$394K,High,$430K,Updated 01/07/22,$370K,1 Jul 2022,"$290,000","$80,000",3,1,94m2,426m2,,1
+199,"Last sold on
+      21/03/202527 Boundary Street, Purakaunui1012m2$150,000(last sale price)",https://www.realestate.co.nz/property/27-boundary-street-purakaunui-dunedin-city-otago/9nn7d62q,,,,,"$255,000",Low,"$150,000",21/03/2025,Low,$218K,Med,$251K,High,$286K,Updated 01/07/22,$255K,1 Jul 2022,"$255,000",$0,,,,1012m2,,
+200,"Last sold on
+      21/03/20256 Edwin Street, Caversham21304m2$335,000(last sale price)",https://www.realestate.co.nz/property/6-edwin-street-caversham-dunedin-city-otago/g75bq80r,,,,,"$370,000",Low,"$335,000",21/03/2025,Low,$320K,Med,$346K,High,$378K,Updated 01/07/22,$370K,1 Jul 2022,"$215,000","$155,000",2,1,95m2,304m2,,
+201,"Last sold on
+      21/03/20254 Shetland Street, Kaikorai41402m2$610,000(last sale price)",https://www.realestate.co.nz/property/4-shetland-street-kaikorai-dunedin-city-otago/dlnmh8fr,,,,,"$700,000",Low,"$610,000",21/03/2025,Low,$593K,Med,$643K,High,$694K,Updated 01/07/22,$700K,1 Jul 2022,"$210,000","$490,000",4,1,180m2,402m2,,1
+202,"Last sold on
+      21/03/2025725 Highgate, Maori Hill32372m2$655,000(last sale price)",https://www.realestate.co.nz/property/725-highgate-maori-hill-dunedin-city-otago/hn0kb9cr,,,,,"$640,000",Low,"$655,000",21/03/2025,Low,$549K,Med,$603K,High,$662K,Updated 01/07/22,$640K,1 Jul 2022,"$500,000","$140,000",3,2,110m2,372m2,,1
+203,"Last sold on
+      21/03/202526A Normanby Street, Saint Kilda21$520,000(last sale price)",https://www.realestate.co.nz/property/26a-normanby-street-saint-kilda-dunedin-city-otago/q68y733r,,,,,"$465,000",Low,"$520,000",21/03/2025,Low,$411K,Med,$433K,High,$460K,Updated 01/07/22,$465K,1 Jul 2022,"$235,000","$230,000",2,1,80m2,,,1
+204,"Recently sold315 Double Hill Road, Waitati3115.43haPrice is not yet confirmed",https://www.realestate.co.nz/property/315-double-hill-road-waitati-dunedin-city-otago/p5jtz11q,,,,,"$590,000",Low,,,Low,$480K,Med,$485K,High,$736K,Updated 01/07/22,$590K,1 Jul 2022,"$510,000","$80,000",3,1,130m2,15.43ha,,2
+205,"Last sold on
+      20/03/2025101 Musselburgh Rise, Musselburgh31455m2$650,000(last sale price)",https://www.realestate.co.nz/property/101-musselburgh-rise-musselburgh-dunedin-city-otago/xv97pnwr,,,,,"$645,000",Low,"$650,000",20/03/2025,Low,$558K,Med,$595K,High,$627K,Updated 01/07/22,$645K,1 Jul 2022,"$430,000","$215,000",3,1,150m2,455m2,,1
+206,"Last sold on
+      20/03/202556 Doon Street, Vauxhall811295m2$750,000(last sale price)",https://www.realestate.co.nz/property/56-doon-street-vauxhall-dunedin-city-otago/13cvhctr,,,,,"$895,000",Low,"$750,000",20/03/2025,Low,$691K,Med,$784K,High,$869K,Updated 01/07/22,$895K,1 Jul 2022,"$850,000","$45,000",8,1,170m2,1295m2,,1
+207,"Last sold on
+      20/03/202543 Torquay Street, Abbotsford31693m2$660,000(last sale price)",https://www.realestate.co.nz/property/43-torquay-street-abbotsford-dunedin-city-otago/6sd0l68r,,,,,"$555,000",Low,"$660,000",20/03/2025,Low,$528K,Med,$558K,High,$592K,Updated 01/07/22,$555K,1 Jul 2022,"$280,000","$275,000",3,1,170m2,693m2,,1
+208,"Last sold on
+      20/03/202513 Lorne Street, Mosgiel31830m2$520,000(last sale price)",https://www.realestate.co.nz/property/13-lorne-street-mosgiel-dunedin-city-otago/sk7s8mjs,,,,,"$505,000",Low,"$520,000",20/03/2025,Low,$481K,Med,$506K,High,$537K,Updated 01/07/22,$505K,1 Jul 2022,"$350,000","$155,000",3,1,80m2,830m2,,1
+209,"Last sold on
+      20/03/2025135 Shetland Street, Wakari1201m2$575,000(last sale price)",https://www.realestate.co.nz/property/135-shetland-street-wakari-dunedin-city-otago/jjjjjjfr,,,,,"$450,000",Low,"$575,000",20/03/2025,Low,$500K,Med,$531K,High,$569K,Updated 01/07/22,$450K,1 Jul 2022,"$450,000",$0,,,,1201m2,,
+210,"Last sold on
+      20/03/202516 Hunt Street, Andersons Bay42440m2$700,000(last sale price)",https://www.realestate.co.nz/property/16-hunt-street-andersons-bay-dunedin-city-otago/t8hkd1vr,,,,,"$720,000",Low,"$700,000",20/03/2025,Low,$658K,Med,$685K,High,$720K,Updated 01/07/22,$720K,1 Jul 2022,"$280,000","$440,000",4,2,190m2,440m2,,2
+211,"Last sold on
+      20/03/202522A Josephine Street, Caversham21$321,000(last sale price)",https://www.realestate.co.nz/property/22a-josephine-street-caversham-dunedin-city-otago/fdkxg70r,,,,,"$345,000",Low,"$321,000",20/03/2025,Low,$307K,Med,$330K,High,$347K,Updated 01/07/22,$345K,1 Jul 2022,"$160,000","$185,000",2,1,70m2,,,1
+212,"Last sold on
+      20/03/2025156A Hagart-alexander Drive, Mosgiel21$567,000(last sale price)",https://www.realestate.co.nz/property/156a-hagart-alexander-drive-mosgiel-dunedin-city-otago/b1qf4tns,,,,,"$590,000",Low,"$567,000",20/03/2025,Low,$531K,Med,$555K,High,$584K,Updated 01/07/22,$590K,1 Jul 2022,"$250,000","$340,000",2,1,120m2,,,1
+213,"Last sold on
+      20/03/202537A Rutherford Street, Caversham21$366,000(last sale price)",https://www.realestate.co.nz/property/37a-rutherford-street-caversham-dunedin-city-otago/j9nn7dyr,,,,,"$375,000",Low,"$366,000",20/03/2025,Low,$349K,Med,$363K,High,$387K,Updated 01/07/22,$375K,1 Jul 2022,"$170,000","$205,000",2,1,90m2,,,1
+214,"Last sold on
+      20/03/202522 Neidpath Road, Mornington421136m2$720,000(last sale price)",https://www.realestate.co.nz/property/22-neidpath-road-mornington-dunedin-city-otago/yg3tnllr,,,,,"$730,000",Low,"$720,000",20/03/2025,Low,$663K,Med,$710K,High,$746K,Updated 01/07/22,$730K,1 Jul 2022,"$385,000","$345,000",4,2,154m2,1136m2,,2
+215,"Last sold on
+      20/03/2025322 Highcliff Road, Highcliff31814m2$650,000(last sale price)",https://www.realestate.co.nz/property/322-highcliff-road-highcliff-dunedin-city-otago/v97pn37r,,,,,"$640,000",Low,"$650,000",20/03/2025,Low,$576K,Med,$607K,High,$645K,Updated 01/07/22,$640K,1 Jul 2022,"$345,000","$295,000",3,1,270m2,814m2,,3
+216,"Last sold on
+      20/03/2025120 Quarry Road, Mosgiel431776m2$875,000(last sale price)",https://www.realestate.co.nz/property/120-quarry-road-mosgiel-dunedin-city-otago/mvghxqns,,,,,"$875,000",Low,"$875,000",20/03/2025,Low,$798K,Med,$857K,High,$947K,Updated 01/07/22,$875K,1 Jul 2022,"$800,000","$75,000",4,3,224m2,1776m2,,3
+217,"Last sold on
+      20/03/2025116 Signal Hill Road, Opoho41556m2$720,000(last sale price)",https://www.realestate.co.nz/property/116-signal-hill-road-opoho-dunedin-city-otago/zqpv6r8q,,,,,"$720,000",Low,"$720,000",20/03/2025,Low,$619K,Med,$665K,High,$697K,Updated 01/07/22,$720K,1 Jul 2022,"$465,000","$255,000",4,1,150m2,556m2,,2
+218,"Recently sold9 Souter Street, Mosgiel41743m2Price is not yet confirmed",https://www.realestate.co.nz/property/9-souter-street-mosgiel-dunedin-city-otago/666666js,,,,,"$530,000",Low,,,Low,$493K,Med,$530K,High,$562K,Updated 01/07/22,$530K,1 Jul 2022,"$385,000","$145,000",4,1,111m2,743m2,,1
+219,"Last sold on
+      19/03/202553A Bush Road, Mosgiel1$705,000(last sale price)",https://www.realestate.co.nz/property/53a-bush-road-mosgiel-dunedin-city-otago/8k9dyvks,,,,,"$640,000",Low,"$705,000",19/03/2025,Low,$573K,Med,$611K,High,$650K,Updated 01/07/22,$640K,1 Jul 2022,"$375,000","$265,000",,1,150m2,,,1
+220,"Last sold on
+      19/03/202534 Main South Road, Concord31607m2$506,000(last sale price)",https://www.realestate.co.nz/property/34-main-south-road-concord-dunedin-city-otago/vmlr3n9r,,,,,"$520,000",Low,"$506,000",19/03/2025,Low,$462K,Med,$488K,High,$511K,Updated 01/07/22,$520K,1 Jul 2022,"$265,000","$255,000",3,1,93m2,607m2,,1
+221,"Last sold on
+      19/03/202551 Dunrobin Street, Waverley31506m2$99,000(last sale price)",https://www.realestate.co.nz/property/51-dunrobin-street-waverley-dunedin-city-otago/l5xw1dtr,,,,,"$860,000",Low,"$99,000",19/03/2025,Low,$635K,Med,$683K,High,$738K,Updated 01/07/22,$860K,1 Jul 2022,"$440,000","$420,000",3,1,220m2,506m2,,1
+222,"Last sold on
+      19/03/202512 Wynyard Street, South Dunedin21245m2$425,000(last sale price)",https://www.realestate.co.nz/property/12-wynyard-street-south-dunedin-dunedin-city-otago/y20r9m2r,,,,,"$450,000",Low,"$425,000",19/03/2025,Low,$388K,Med,$406K,High,$423K,Updated 01/07/22,$450K,1 Jul 2022,"$205,000","$245,000",2,1,75m2,245m2,,1
+223,"Last sold on
+      19/03/202573 Severn Street, Green Island32414m2$865,000(last sale price)",https://www.realestate.co.nz/property/73-severn-street-green-island-dunedin-city-otago/gbpjwqfs,,,,,"$760,000",Low,"$865,000",19/03/2025,Low,$757K,Med,$796K,High,$837K,Updated 01/07/22,$760K,1 Jul 2022,"$310,000","$450,000",3,2,162m2,414m2,,2
+224,"Last sold on
+      19/03/202511 Sretlaw Place, Brockville43896m2$1,020,000(last sale price)",https://www.realestate.co.nz/property/11-sretlaw-place-brockville-dunedin-city-otago/hwvfmdjr,,,,,"$1,050,000",Low,"$1,020,000",19/03/2025,Low,$996K,Med,$1.05M,High,$1.11M,Updated 01/07/22,$1.05M,1 Jul 2022,"$280,000","$770,000",4,3,270m2,896m2,,2
+225,"Last sold on
+      19/03/202563 Bellona Street, Saint Kilda31306m2$450,000(last sale price)",https://www.realestate.co.nz/property/63-bellona-street-saint-kilda-dunedin-city-otago/n90vst4r,,,,,"$430,000",Low,"$450,000",19/03/2025,Low,$391K,Med,$414K,High,$436K,Updated 01/07/22,$430K,1 Jul 2022,"$250,000","$180,000",3,1,93m2,306m2,,
+226,"Last sold on
+      19/03/202527 Rosebery Street, Belleknowes31551m2$645,000(last sale price)",https://www.realestate.co.nz/property/27-rosebery-street-belleknowes-dunedin-city-otago/jtz10wkr,,,,,"$660,000",Low,"$645,000",19/03/2025,Low,$586K,Med,$626K,High,$664K,Updated 01/07/22,$660K,1 Jul 2022,"$415,000","$245,000",3,1,147m2,551m2,,1
+227,"Last sold on
+      19/03/20256 Gibson Street, Wakari31579m2$655,000(last sale price)",https://www.realestate.co.nz/property/6-gibson-street-wakari-dunedin-city-otago/4fg5kpqrz,,,,,"$610,000",Low,"$655,000",19/03/2025,Low,$609K,Med,$645K,High,$673K,Updated 01/07/22,$610K,1 Jul 2022,"$370,000","$240,000",3,1,150m2,579m2,,2
+228,"Last sold on
+      18/03/20259 Churchill Street, Saint Kilda31511m2$550,000(last sale price)",https://www.realestate.co.nz/property/9-churchill-street-saint-kilda-dunedin-city-otago/g3tnlm4r,,,,,"$570,000",Low,"$550,000",18/03/2025,Low,$504K,Med,$541K,High,$570K,Updated 01/07/22,$570K,1 Jul 2022,"$470,000","$100,000",3,1,110m2,511m2,,1
+229,"Last sold on
+      18/03/202523 Byron Street, Mornington31462m2$599,000(last sale price)",https://www.realestate.co.nz/property/23-byron-street-mornington-dunedin-city-otago/wh71z0lr,,,,,"$605,000",Low,"$599,000",18/03/2025,Low,$526K,Med,$558K,High,$596K,Updated 01/07/22,$605K,1 Jul 2022,"$295,000","$310,000",3,1,145m2,462m2,,1
+230,"Last sold on
+      18/03/202599 Doon Street, Waverley42729m2$920,000(last sale price)",https://www.realestate.co.nz/property/99-doon-street-waverley-dunedin-city-otago/qhwvfmtr,,,,,"$850,000",Low,"$920,000",18/03/2025,Low,$841K,Med,$901K,High,$950K,Updated 01/07/22,$850K,1 Jul 2022,"$575,000","$275,000",4,2,260m2,729m2,,2
+231,"Last sold on
+      18/03/202518 Marlow Street, Saint Kilda33584m2$490,000(last sale price)",https://www.realestate.co.nz/property/18-marlow-street-saint-kilda-dunedin-city-otago/kph0633r,,,,,"$590,000",Low,"$490,000",18/03/2025,Low,$504K,Med,$549K,High,$592K,Updated 01/07/22,$590K,1 Jul 2022,"$510,000","$80,000",3,3,148m2,584m2,,1
+232,"Last sold on
+      18/03/202519 Calder Street, Saint Kilda31372m2$419,000(last sale price)",https://www.realestate.co.nz/property/19-calder-street-saint-kilda-dunedin-city-otago/582ltq4r,,,,,"$455,000",Low,"$419,000",18/03/2025,Low,$397K,Med,$427K,High,$452K,Updated 01/07/22,$455K,1 Jul 2022,"$270,000","$185,000",3,1,110m2,372m2,,
+233,"Last sold on
+      18/03/202522 Tay Street, Mosgiel31758m2$550,000(last sale price)",https://www.realestate.co.nz/property/22-tay-street-mosgiel-dunedin-city-otago/xbwh71js,,,,,"$570,000",Low,"$550,000",18/03/2025,Low,$531K,Med,$565K,High,$595K,Updated 01/07/22,$570K,1 Jul 2022,"$410,000","$160,000",3,1,114m2,758m2,,2
+234,"Last sold on
+      18/03/202541 Oxford Street, South Dunedin31284m2$437,000(last sale price)",https://www.realestate.co.nz/property/41-oxford-street-south-dunedin-dunedin-city-otago/gwzs9h2r,,,,,"$480,000",Low,"$437,000",18/03/2025,Low,$415K,Med,$441K,High,$472K,Updated 01/07/22,$480K,1 Jul 2022,"$230,000","$250,000",3,1,110m2,284m2,,
+235,"Last sold on
+      18/03/202578 Cliffs Road, Saint Clair431024m2$1,800,000(last sale price)",https://www.realestate.co.nz/property/78-cliffs-road-saint-clair-dunedin-city-otago/s486yh0r,,,,,"$1,670,000",Low,"$1,800,000",18/03/2025,Low,$1.52M,Med,$1.69M,High,$1.81M,Updated 01/07/22,$1.67M,1 Jul 2022,"$800,000","$870,000",4,3,331m2,1024m2,,3
+236,"Last sold on
+      18/03/202531 Nicholson Street, Forbury51379m2$390,000(last sale price)",https://www.realestate.co.nz/property/31-nicholson-street-forbury-dunedin-city-otago/qwyxsk1r,,,,,"$370,000",Low,"$390,000",18/03/2025,Low,$329K,Med,$368K,High,$400K,Updated 01/07/22,$370K,1 Jul 2022,"$225,000","$145,000",5,1,123m2,379m2,,1
+237,"Last sold on
+      18/03/20255 Ethel Benjamin Place, North Dunedin5229m2$805,000(last sale price)",https://www.realestate.co.nz/property/5-ethel-benjamin-place-north-dunedin-dunedin-city-otago/93bzzdrr,,,,,"$770,000",Low,"$805,000",18/03/2025,Low,$683K,Med,$733K,High,$794K,Updated 01/07/22,$770K,1 Jul 2022,"$420,000","$350,000",5,,103m2,229m2,,
+238,"Last sold on
+      18/03/202569 Albert Street, Saint Clair42997m2$1,250,000(last sale price)",https://www.realestate.co.nz/property/69-albert-street-saint-clair-dunedin-city-otago/fbtwkv5r,,,,,"$1,340,000",Low,"$1,250,000",18/03/2025,Low,$1.22M,Med,$1.3M,High,$1.41M,Updated 01/07/22,$1.34M,1 Jul 2022,"$620,000","$720,000",4,2,215m2,997m2,,2
+239,"Last sold on
+      17/03/202514 Highgrove, Saint Clair421619m2$1,450,000(last sale price)",https://www.realestate.co.nz/property/14-highgrove-saint-clair-dunedin-city-otago/v1jbft0r,,,,,"$1,370,000",Low,"$1,450,000",17/03/2025,Low,$1.31M,Med,$1.44M,High,$1.55M,Updated 01/07/22,$1.37M,1 Jul 2022,"$730,000","$640,000",4,2,306m2,1619m2,,2
+240,"Last sold on
+      17/03/202516 Albion Street, Shiel Hill42549m2$750,000(last sale price)",https://www.realestate.co.nz/property/16-albion-street-shiel-hill-dunedin-city-otago/2pf856tr,,,,,"$810,000",Low,"$750,000",17/03/2025,Low,$731K,Med,$769K,High,$808K,Updated 01/07/22,$810K,1 Jul 2022,"$350,000","$460,000",4,2,290m2,549m2,,2
+241,"Last sold on
+      17/03/2025410 Kaikorai Valley Road, Bradford31525m2$630,000(last sale price)",https://www.realestate.co.nz/property/410-kaikorai-valley-road-bradford-dunedin-city-otago/4tj7xmyw,,,,,"$565,000",Low,"$630,000",17/03/2025,Low,$505K,Med,$535K,High,$568K,Updated 01/07/22,$565K,1 Jul 2022,"$225,000","$340,000",3,1,110m2,525m2,,1
+242,"Last sold on
+      17/03/202519 Argyle Street, Mornington32669m2$895,000(last sale price)",https://www.realestate.co.nz/property/19-argyle-street-mornington-dunedin-city-otago/ylgjs7lr,,,,,"$805,000",Low,"$895,000",17/03/2025,Low,$716K,Med,$780K,High,$829K,Updated 01/07/22,$805K,1 Jul 2022,"$500,000","$305,000",3,2,190m2,669m2,,1
+243,"Last sold on
+      17/03/202512 Kellas Street, Macandrew Bay21526m2$355,000(last sale price)",https://www.realestate.co.nz/property/12-kellas-street-macandrew-bay-dunedin-city-otago/qzf3y05r,,,,,"$395,000",Low,"$355,000",17/03/2025,Low,$352K,Med,$385K,High,$423K,Updated 01/07/22,$395K,1 Jul 2022,"$295,000","$100,000",2,1,70m2,526m2,,1
+244,"Last sold on
+      17/03/202539 Seaton Road, Portobello321863m2$785,000(last sale price)",https://www.realestate.co.nz/property/39-seaton-road-portobello-dunedin-city-otago/zm29b66r,,,,,"$780,000",Low,"$785,000",17/03/2025,Low,$754K,Med,$783K,High,$824K,Updated 01/07/22,$780K,1 Jul 2022,"$360,000","$420,000",3,2,161m2,1863m2,,2
+245,"Last sold on
+      17/03/2025481 Garthmyl Road, Middlemarch8557m2$155,000(last sale price)",https://www.realestate.co.nz/property/481-garthmyl-road-middlemarch-dunedin-city-otago/dsrbj9bs,,,,,"$330,000",Low,"$155,000",17/03/2025,Low,$183K,Med,$343K,High,$432K,Updated 01/07/22,$330K,1 Jul 2022,"$160,000","$170,000",,,160m2,8557m2,,
+246,"Last sold on
+      17/03/202517 Mure Street, Mosgiel21506m2$520,000(last sale price)",https://www.realestate.co.nz/property/17-mure-street-mosgiel-dunedin-city-otago/h4ktvpls,,,,,"$510,000",Low,"$520,000",17/03/2025,Low,$469K,Med,$487K,High,$515K,Updated 01/07/22,$510K,1 Jul 2022,"$345,000","$165,000",2,1,100m2,506m2,,
+247,"Last sold on
+      17/03/202511 Mary Street, Port Chalmers21298m2$512,377(last sale price)",https://www.realestate.co.nz/property/11-mary-street-port-chalmers-dunedin-city-otago/dyzjl44q,,,,,"$490,000",Low,"$512,377",17/03/2025,Low,$442K,Med,$478K,High,$505K,Updated 01/07/22,$490K,1 Jul 2022,"$260,000","$230,000",2,1,90m2,298m2,,
+248,"Last sold on
+      17/03/202561 Reynoldstown Road, Careys Bay5m2$300,000(last sale price)",https://www.realestate.co.nz/property/61-reynoldstown-road-careys-bay-dunedin-city-otago/0xjvvk3q,,,,,"$295,000",Low,"$300,000",17/03/2025,Low,$231K,Med,$266K,High,$302K,Updated 01/07/22,$295K,1 Jul 2022,"$290,000","$5,000",,,,5m2,,
+249,"Last sold on
+      17/03/202587 Wingatui Road, Mosgiel42734m2$1,360,000(last sale price)",https://www.realestate.co.nz/property/87-wingatui-road-mosgiel-dunedin-city-otago/5bq80zwkk,,,,,"$1,250,000",Low,"$1,360,000",17/03/2025,Low,$1.23M,Med,$1.29M,High,$1.35M,Updated 01/07/22,$1.25M,1 Jul 2022,"$385,000","$865,000",4,2,301m2,734m2,,2
+250,"Last sold on
+      16/03/2025132 Doctors Point Road, Waitati1012m2$560,000(last sale price)",https://www.realestate.co.nz/property/132-doctors-point-road-waitati-dunedin-city-otago/t44v8c2q,,,,,"$590,000",Low,"$560,000",16/03/2025,Low,$548K,Med,$574K,High,$607K,Updated 01/07/22,$590K,1 Jul 2022,"$330,000","$260,000",,,120m2,1012m2,,
+251,"Last sold on
+      16/03/202533 Pacific Street, Roslyn31685m2$653,000(last sale price)",https://www.realestate.co.nz/property/33-pacific-street-roslyn-dunedin-city-otago/7ych9sfr,,,,,"$650,000",Low,"$653,000",16/03/2025,Low,$572K,Med,$604K,High,$654K,Updated 01/07/22,$650K,1 Jul 2022,"$600,000","$50,000",3,1,100m2,685m2,,1
+252,"Last sold on
+      16/03/2025231 Forbury Road, Saint Clair72622m2$1,230,000(last sale price)",https://www.realestate.co.nz/property/231-forbury-road-saint-clair-dunedin-city-otago/y4mfjx5r,,,,,"$1,180,000",Low,"$1,230,000",16/03/2025,Low,$1.02M,Med,$1.11M,High,$1.21M,Updated 01/07/22,$1.18M,1 Jul 2022,"$620,000","$560,000",7,2,220m2,622m2,,3
+253,"Last sold on
+      14/03/202564 Geelong Street, Waikouaiti222023m2$550,000(last sale price)",https://www.realestate.co.nz/property/64-geelong-street-waikouaiti-dunedin-city-otago/3rxkqc4q,,,,,"$610,000",Low,"$550,000",14/03/2025,Low,$535K,Med,$582K,High,$631K,Updated 01/07/22,$610K,1 Jul 2022,"$325,000","$285,000",2,2,80m2,2023m2,,3
+254,"Last sold on
+      14/03/202512 Nairn Street, Mosgiel31767m2$610,000(last sale price)",https://www.realestate.co.nz/property/12-nairn-street-mosgiel-dunedin-city-otago/ywx18ljs,,,,,"$540,000",Low,"$610,000",14/03/2025,Low,$502K,Med,$533K,High,$557K,Updated 01/07/22,$540K,1 Jul 2022,"$350,000","$190,000",3,1,90m2,767m2,,1
+255,"Last sold on
+      14/03/202567E Forfar Street, Mosgiel11$285,000(last sale price)",https://www.realestate.co.nz/property/67e-forfar-street-mosgiel-dunedin-city-otago/9tr2sxjs,,,,,"$350,000",Low,"$285,000",14/03/2025,Low,$286K,Med,$311K,High,$345K,Updated 01/07/22,$350K,1 Jul 2022,"$200,000","$150,000",1,1,40m2,,,1
+256,"Last sold on
+      14/03/20259 Picardy Street, Maryhill21513m2$629,750(last sale price)",https://www.realestate.co.nz/property/9-picardy-street-maryhill-dunedin-city-otago/w0jgshmr,,,,,"$620,000",Low,"$629,750",14/03/2025,Low,$554K,Med,$590K,High,$621K,Updated 01/07/22,$620K,1 Jul 2022,"$300,000","$320,000",2,1,122m2,513m2,,
+257,"Last sold on
+      14/03/202522 Cavell Street, Musselburgh41425m2$670,000(last sale price)",https://www.realestate.co.nz/property/22-cavell-street-musselburgh-dunedin-city-otago/rkc5yrwr,,,,,"$690,000",Low,"$670,000",14/03/2025,Low,$596K,Med,$638K,High,$674K,Updated 01/07/22,$690K,1 Jul 2022,"$405,000","$285,000",4,1,130m2,425m2,,1
+258,"Last sold on
+      14/03/2025257 Gladstone Road South, East Taieri4219m2$2,400,000(last sale price)",https://www.realestate.co.nz/property/257-gladstone-road-south-east-taieri-dunedin-city-otago/jrcdtmcgc,,,,,"$1,810,000",Low,"$2,400,000",14/03/2025,Low,$1.47M,Med,$1.66M,High,$1.84M,Updated 01/07/22,$1.81M,1 Jul 2022,"$1,060,000","$750,000",4,2,269m2,19m2,,4
+259,"Last sold on
+      14/03/202546 Playfair Street, Caversham32702m2$58,000(last sale price)",https://www.realestate.co.nz/property/46-playfair-street-caversham-dunedin-city-otago/h2tsy9xr,,,,,"$530,000",Low,"$58,000",14/03/2025,Low,$417K,Med,$460K,High,$493K,Updated 01/07/22,$530K,1 Jul 2022,"$220,000","$310,000",3,2,120m2,702m2,,1
+260,"Last sold on
+      14/03/202538A Grove Street, Saint Kilda21$420,000(last sale price)",https://www.realestate.co.nz/property/38a-grove-street-saint-kilda-dunedin-city-otago/2mp78t3r,,,,,"$395,000",Low,"$420,000",14/03/2025,Low,$352K,Med,$373K,High,$390K,Updated 01/07/22,$395K,1 Jul 2022,"$190,000","$205,000",2,1,70m2,,,
+261,"Last sold on
+      14/03/202521 Hill Road, Warrington311013m2$660,000(last sale price)",https://www.realestate.co.nz/property/21-hill-road-warrington-dunedin-city-otago/69tr2s1q,,,,,"$820,000",Low,"$660,000",14/03/2025,Low,$709K,Med,$754K,High,$831K,Updated 01/07/22,$820K,1 Jul 2022,"$290,000","$530,000",3,1,135m2,1013m2,,
+262,"Last sold on
+      14/03/202511 Didham Drive, Mosgiel32934m2$849,000(last sale price)",https://www.realestate.co.nz/property/11-didham-drive-mosgiel-dunedin-city-otago/2sxfcpcs,,,,,"$820,000",Low,"$849,000",14/03/2025,Low,$833K,Med,$868K,High,$896K,Updated 01/07/22,$820K,1 Jul 2022,"$330,000","$490,000",3,2,162m2,934m2,,2
+263,"Last sold on
+      14/03/202541 Wesley Street, South Dunedin21207m2$280,000(last sale price)",https://www.realestate.co.nz/property/41-wesley-street-south-dunedin-dunedin-city-otago/1xdh5f2r,,,,,"$315,000",Low,"$280,000",14/03/2025,Low,$270K,Med,$299K,High,$330K,Updated 01/07/22,$315K,1 Jul 2022,"$195,000","$120,000",2,1,60m2,207m2,,1
+264,"Last sold on
+      14/03/202517 Magdala Street, Tainui31395m2$535,000(last sale price)",https://www.realestate.co.nz/property/17-magdala-street-tainui-dunedin-city-otago/98k517wr,,,,,"$540,000",Low,"$535,000",14/03/2025,Low,$486K,Med,$518K,High,$550K,Updated 01/07/22,$540K,1 Jul 2022,"$380,000","$160,000",3,1,113m2,395m2,,
+265,"Last sold on
+      14/03/202529B Highgate, Belleknowes32298m2$1,075,000(last sale price)",https://www.realestate.co.nz/property/29b-highgate-belleknowes-dunedin-city-otago/5dg9xchr,,,,,"$770,000",Low,"$1,075,000",14/03/2025,Low,$694K,Med,$740K,High,$817K,Updated 01/07/22,$770K,1 Jul 2022,"$395,000","$375,000",3,2,170m2,298m2,,2
+266,"Last sold on
+      14/03/20254A Begg Street, Saint Kilda21$270,000(last sale price)",https://www.realestate.co.nz/property/4a-begg-street-saint-kilda-dunedin-city-otago/r4dlnm3r,,,,,"$300,000",Low,"$270,000",14/03/2025,Low,$257K,Med,$279K,High,$298K,Updated 01/07/22,$300K,1 Jul 2022,"$180,000","$120,000",2,1,50m2,,,
+267,"Last sold on
+      14/03/202572 Kinmont Crescent, Mosgiel31688m2$580,000(last sale price)",https://www.realestate.co.nz/property/72-kinmont-crescent-mosgiel-dunedin-city-otago/5yrkc5ks,,,,,"$590,000",Low,"$580,000",14/03/2025,Low,$558K,Med,$580K,High,$610K,Updated 01/07/22,$590K,1 Jul 2022,"$290,000","$300,000",3,1,110m2,688m2,,1
+268,"Recently sold178 Malvern Street, Woodhaugh31517m2Price is not yet confirmed",https://www.realestate.co.nz/property/178-malvern-street-woodhaugh-dunedin-city-otago/s2nkr79q,,,,,"$455,000",Low,,,Low,$403K,Med,$433K,High,$461K,Updated 01/07/22,$455K,1 Jul 2022,"$260,000","$195,000",3,1,108m2,517m2,,1
+269,"Last sold on
+      14/03/202551 Goodall Street, Mosgiel42658m2$694,100(last sale price)",https://www.realestate.co.nz/property/51-goodall-street-mosgiel-dunedin-city-otago/kk492gks,,,,,"$670,000",Low,"$694,100",14/03/2025,Low,$670K,Med,$701K,High,$741K,Updated 01/07/22,$670K,1 Jul 2022,"$385,000","$285,000",4,2,210m2,658m2,,1
+270,"Last sold on
+      13/03/20255 Broomlea Street, Wakari31908m2$570,000(last sale price)",https://www.realestate.co.nz/property/5-broomlea-street-wakari-dunedin-city-otago/rkc5yrhr,,,,,"$640,000",Low,"$570,000",13/03/2025,Low,$576K,Med,$611K,High,$649K,Updated 01/07/22,$640K,1 Jul 2022,"$370,000","$270,000",3,1,150m2,908m2,,1
+271,"Last sold on
+      13/03/2025186 Main South Road, East Taieri416488m2$680,000(last sale price)",https://www.realestate.co.nz/property/186-main-south-road-east-taieri-dunedin-city-otago/h063q17z,,,,,"$850,000",Low,"$680,000",13/03/2025,Low,$683K,Med,$728K,High,$800K,Updated 01/07/22,$850K,1 Jul 2022,"$440,000","$410,000",4,1,200m2,6488m2,,1
+272,"Last sold on
+      13/03/202552 Tyne Street, Mosgiel31556m2$510,000(last sale price)",https://www.realestate.co.nz/property/52-tyne-street-mosgiel-dunedin-city-otago/243zrfks,,,,,"$580,000",Low,"$510,000",13/03/2025,Low,$577K,Med,$608K,High,$638K,Updated 01/07/22,$580K,1 Jul 2022,"$370,000","$210,000",3,1,121m2,556m2,,1
+273,"Last sold on
+      13/03/202539 Rutherford Street, Caversham21221m2$480,000(last sale price)",https://www.realestate.co.nz/property/39-rutherford-street-caversham-dunedin-city-otago/cswp6dyr,,,,,"$385,000",Low,"$480,000",13/03/2025,Low,$351K,Med,$369K,High,$391K,Updated 01/07/22,$385K,1 Jul 2022,"$170,000","$215,000",2,1,74m2,221m2,,
+274,"Last sold on
+      13/03/202546 Cranley Street, Musselburgh41486m2$460,000(last sale price)",https://www.realestate.co.nz/property/46-cranley-street-musselburgh-dunedin-city-otago/0d32czwr,,,,,"$530,000",Low,"$460,000",13/03/2025,Low,$467K,Med,$512K,High,$548K,Updated 01/07/22,$530K,1 Jul 2022,"$455,000","$75,000",4,1,115m2,486m2,,
+275,"Last sold on
+      13/03/202584 Grendon Street, Maori Hill41774m2$877,500(last sale price)",https://www.realestate.co.nz/property/84-grendon-street-maori-hill-dunedin-city-otago/mfjxlldr,,,,,"$1,050,000",Low,"$877,500",13/03/2025,Low,$885K,Med,$948K,High,$1.05M,Updated 01/07/22,$1.05M,1 Jul 2022,"$700,000","$350,000",4,1,200m2,774m2,,1
+276,"Last sold on
+      13/03/202555 Newington Avenue, Maori Hill786m2$820,000(last sale price)",https://www.realestate.co.nz/property/55-newington-avenue-maori-hill-dunedin-city-otago/ypypypfr,,,,,"$875,000",Low,"$820,000",13/03/2025,Low,$690K,Med,$769K,High,$823K,Updated 01/07/22,$875K,1 Jul 2022,"$785,000","$90,000",,,113m2,786m2,,1
+277,"Last sold on
+      13/03/202527 Bathgate Street, South Dunedin31361m2$410,000(last sale price)",https://www.realestate.co.nz/property/27-bathgate-street-south-dunedin-dunedin-city-otago/tb8k9d2r,,,,,"$350,000",Low,"$410,000",13/03/2025,Low,$334K,Med,$365K,High,$395K,Updated 01/07/22,$350K,1 Jul 2022,"$225,000","$125,000",3,1,114m2,361m2,,
+278,"Last sold on
+      13/03/202536 Glendining Avenue, North East Valley32659m2$750,000(last sale price)",https://www.realestate.co.nz/property/36-glendining-avenue-north-east-valley-dunedin-city-otago/rl7nxy8q,,,,,"$730,000",Low,"$750,000",13/03/2025,Low,$654K,Med,$709K,High,$739K,Updated 01/07/22,$730K,1 Jul 2022,"$580,000","$150,000",3,2,180m2,659m2,,1
+279,"Last sold on
+      13/03/2025463 Highgate, Maori Hill42802m2$1,310,000(last sale price)",https://www.realestate.co.nz/property/463-highgate-maori-hill-dunedin-city-otago/0fzlb5fr,,,,,"$1,490,000",Low,"$1,310,000",13/03/2025,Low,$1.25M,Med,$1.34M,High,$1.46M,Updated 01/07/22,$1.49M,1 Jul 2022,"$880,000","$610,000",4,2,222m2,802m2,,
+280,"Last sold on
+      13/03/202550 Tower Avenue, Waverley31612m2$660,000(last sale price)",https://www.realestate.co.nz/property/50-tower-avenue-waverley-dunedin-city-otago/8xhzbmsr,,,,,"$700,000",Low,"$660,000",13/03/2025,Low,$611K,Med,$643K,High,$682K,Updated 01/07/22,$700K,1 Jul 2022,"$245,000","$455,000",3,1,120m2,612m2,,1
+281,"Last sold on
+      13/03/2025108 Victoria Road, Saint Kilda31372m2$470,000(last sale price)",https://www.realestate.co.nz/property/108-victoria-road-saint-kilda-dunedin-city-otago/z04cq44r,,,,,"$495,000",Low,"$470,000",13/03/2025,Low,$450K,Med,$476K,High,$511K,Updated 01/07/22,$495K,1 Jul 2022,"$270,000","$225,000",3,1,131m2,372m2,,2
+282,"Last sold on
+      13/03/202561D Earls Road, Saint Clair22$775,000(last sale price)",https://www.realestate.co.nz/property/61d-earls-road-saint-clair-dunedin-city-otago/wfh12mxv,,,,,"$780,000",Low,"$775,000",13/03/2025,Low,$775K,Med,$783K,High,$791K,Updated 01/07/22,$780K,1 Jul 2022,"$300,000","$480,000",2,2,110m2,,,1
+283,"Last sold on
+      13/03/2025124 Argyle Street, Mosgiel21301m2$620,000(last sale price)",https://www.realestate.co.nz/property/124-argyle-street-mosgiel-dunedin-city-otago/rpqv2dms,,,,,"$590,000",Low,"$620,000",13/03/2025,Low,$531K,Med,$560K,High,$583K,Updated 01/07/22,$590K,1 Jul 2022,"$250,000","$340,000",2,1,120m2,301m2,,1
+284,"Last sold on
+      13/03/202511A Allandale Road, Saint Clair21807m2$570,000(last sale price)",https://www.realestate.co.nz/property/11a-allandale-road-saint-clair-dunedin-city-otago/5lfn88zr,,,,,"$485,000",Low,"$570,000",13/03/2025,Low,$443K,Med,$484K,High,$528K,Updated 01/07/22,$485K,1 Jul 2022,"$280,000","$205,000",2,1,130m2,807m2,,1
+285,"Last sold on
+      13/03/2025219 Highcliff Road, Shiel Hill31575m2$500,000(last sale price)",https://www.realestate.co.nz/property/219-highcliff-road-shiel-hill-dunedin-city-otago/6rjhn0tr,,,,,"$570,000",Low,"$500,000",13/03/2025,Low,$511K,Med,$544K,High,$571K,Updated 01/07/22,$570K,1 Jul 2022,"$335,000","$235,000",3,1,94m2,575m2,,1
+286,"Last sold on
+      12/03/202547 Bellona Street, Saint Kilda3469m2$550,000(last sale price)",https://www.realestate.co.nz/property/47-bellona-street-saint-kilda-dunedin-city-otago/5237gt4r,,,,,"$540,000",Low,"$550,000",12/03/2025,Low,$500K,Med,$530K,High,$592K,Updated 01/07/22,$540K,1 Jul 2022,"$430,000","$110,000",,3,170m2,469m2,,
+287,"Last sold on
+      12/03/202557 Brighton Road, Green Island31549m2$580,000(last sale price)",https://www.realestate.co.nz/property/57-brighton-road-green-island-dunedin-city-otago/t8hkd1bs,,,,,"$555,000",Low,"$580,000",12/03/2025,Low,$507K,Med,$531K,High,$563K,Updated 01/07/22,$555K,1 Jul 2022,"$295,000","$260,000",3,1,104m2,549m2,,
+288,"Last sold on
+      12/03/2025387 Taieri Road, Halfway Bush41924m2$667,500(last sale price)",https://www.realestate.co.nz/property/387-taieri-road-halfway-bush-dunedin-city-otago/bq80z4hr,,,,,"$730,000",Low,"$667,500",12/03/2025,Low,$647K,Med,$684K,High,$723K,Updated 01/07/22,$730K,1 Jul 2022,"$380,000","$350,000",4,1,162m2,924m2,,1
+289,"Last sold on
+      12/03/202556 Glenholm Street, Glenleith42903m2$1,020,000(last sale price)",https://www.realestate.co.nz/property/56-glenholm-street-glenleith-dunedin-city-otago/bpjwq2br,,,,,"$850,000",Low,"$1,020,000",12/03/2025,Low,$875K,Med,$915K,High,$955K,Updated 01/07/22,$850K,1 Jul 2022,"$370,000","$480,000",4,2,190m2,903m2,,2
+290,"Last sold on
+      12/03/202545A Ascot Street, Saint Kilda21$576,500(last sale price)",https://www.realestate.co.nz/property/45a-ascot-street-saint-kilda-dunedin-city-otago/x4rs603r,,,,,"$570,000",Low,"$576,500",12/03/2025,Low,$495K,Med,$527K,High,$563K,Updated 01/07/22,$570K,1 Jul 2022,"$245,000","$325,000",2,1,90m2,,,1
+291,"Last sold on
+      12/03/202510 Beach Street, Waikouaiti211012m2$340,000(last sale price)",https://www.realestate.co.nz/property/10-beach-street-waikouaiti-dunedin-city-otago/tk3flj4q,,,,,"$320,000",Low,"$340,000",12/03/2025,Low,$300K,Med,$328K,High,$358K,Updated 01/07/22,$320K,1 Jul 2022,"$250,000","$70,000",2,1,71m2,1012m2,,
+292,"Last sold on
+      12/03/20256 Council Street, Saint Kilda23400m2$885,000(last sale price)",https://www.realestate.co.nz/property/6-council-street-saint-kilda-dunedin-city-otago/9dyv5w4r,,,,,"$650,000",Low,"$885,000",12/03/2025,Low,$528K,Med,$579K,High,$627K,Updated 01/07/22,$650K,1 Jul 2022,"$300,000","$350,000",2,3,90m2,400m2,,2
+293,"Last sold on
+      12/03/2025815 Mount Cargill Road, Mount Cargill423.46ha$1,310,000(last sale price)",https://www.realestate.co.nz/property/815-mount-cargill-road-mount-cargill-dunedin-city-otago/t2j6131q,,,,,"$1,390,000",Low,"$1,310,000",12/03/2025,Low,$1.26M,Med,$1.27M,High,$1.32M,Updated 01/07/22,$1.39M,1 Jul 2022,"$550,000","$840,000",4,2,277m2,3.46ha,,2
+294,"Last sold on
+      11/03/202594 Skibo Street, Kew211283m2$480,000(last sale price)",https://www.realestate.co.nz/property/94-skibo-street-kew-dunedin-city-otago/54qxp2zr,"94 Skibo Street, Kew, Dunedin City","94 Skibo Street, Kew","**Tidy two-bedroom home with great parking and storage**Located in a quiet residential area, this well-maintained two-bedroom home offers practical living with new carpet and curtains throughout.The layout includes two bedrooms off the hallway (master with built-in wardrobes), a separate kitchen and dining area, and a lounge with two entrances. The single garage includes internal access and additional storage.Features:- 2 bedrooms, 1 bathroom- Heat pump & Moisture Master system- New carpet and curtains- Separate kitchen and meals area- Single garage + 3 off-street parks- DishwasherViewings: https://bookme.tenant.co.nz/tps7542Applications: https://apply.tpsportal.co.nz/tps7542",dollar$500 per week,,,,,,,,,,,,,,,,2,1,,,,
+295,"Last sold on
+      11/03/202522 Russell Street, Dunedin Central52195m2$653,000(last sale price)",https://www.realestate.co.nz/property/22-russell-street-dunedin-central-dunedin-city-otago/1vng81pr,,,,,"$580,000",Low,"$653,000",11/03/2025,Low,$517K,Med,$557K,High,$583K,Updated 01/07/22,$580K,1 Jul 2022,"$215,000","$365,000",5,2,180m2,195m2,,
+296,"Recently sold244 Taieri Road, Wakari31449m2Price is not yet confirmed",https://www.realestate.co.nz/property/244-taieri-road-wakari-dunedin-city-otago/30myynfr,,,,,"$560,000",Low,,,Low,$520K,Med,$549K,High,$577K,Updated 01/07/22,$560K,1 Jul 2022,"$265,000","$295,000",3,1,121m2,449m2,,2
+297,"Last sold on
+      11/03/20253 Gebbie Street, Mosgiel41807m2$615,000(last sale price)",https://www.realestate.co.nz/property/3-gebbie-street-mosgiel-dunedin-city-otago/j7xmb1ks,,,,,"$660,000",Low,"$615,000",11/03/2025,Low,$601K,Med,$639K,High,$684K,Updated 01/07/22,$660K,1 Jul 2022,"$430,000","$230,000",4,1,154m2,807m2,,
+298,"Last sold on
+      11/03/2025247 Highcliff Road, Shiel Hill41625m2$610,000(last sale price)",https://www.realestate.co.nz/property/247-highcliff-road-shiel-hill-dunedin-city-otago/x4rs60tr,,,,,"$620,000",Low,"$610,000",11/03/2025,Low,$571K,Med,$604K,High,$633K,Updated 01/07/22,$620K,1 Jul 2022,"$350,000","$270,000",4,1,173m2,625m2,,1
+299,"Last sold on
+      11/03/20253 Dalgety Street, Saint Kilda21417m2$525,000(last sale price)",https://www.realestate.co.nz/property/3-dalgety-street-saint-kilda-dunedin-city-otago/v6rjhn4r,,,,,"$530,000",Low,"$525,000",11/03/2025,Low,$476K,Med,$519K,High,$555K,Updated 01/07/22,$530K,1 Jul 2022,"$430,000","$100,000",2,1,95m2,417m2,,1
+300,"Last sold on
+      11/03/202544C Forfar Street, Mosgiel21$420,000(last sale price)",https://www.realestate.co.nz/property/44c-forfar-street-mosgiel-dunedin-city-otago/7rd4ywjs,,,,,"$475,000",Low,"$420,000",11/03/2025,Low,$421K,Med,$450K,High,$482K,Updated 01/07/22,$475K,1 Jul 2022,"$235,000","$240,000",2,1,60m2,,,1
+301,"Last sold on
+      11/03/2025144 Surrey Street, Forbury31446m2$540,000(last sale price)",https://www.realestate.co.nz/property/144-surrey-street-forbury-dunedin-city-otago/1jbfth1r,,,,,"$600,000",Low,"$540,000",11/03/2025,Low,$521K,Med,$550K,High,$580K,Updated 01/07/22,$600K,1 Jul 2022,"$250,000","$350,000",3,1,106m2,446m2,,2
+302,"Last sold on
+      11/03/20251 Kirkland Street, Green Island311012m2$515,000(last sale price)",https://www.realestate.co.nz/property/1-kirkland-street-green-island-dunedin-city-otago/02r1xdbs,,,,,"$545,000",Low,"$515,000",11/03/2025,Low,$488K,Med,$516K,High,$545K,Updated 01/07/22,$545K,1 Jul 2022,"$315,000","$230,000",3,1,134m2,1012m2,,
+303,"Last sold on
+      11/03/202525 Gebbie Street, Mosgiel41012m2$730,000(last sale price)",https://www.realestate.co.nz/property/25-gebbie-street-mosgiel-dunedin-city-otago/y5hyg3ks,,,,,"$740,000",Low,"$730,000",11/03/2025,Low,$672K,Med,$704K,High,$742K,Updated 01/07/22,$740K,1 Jul 2022,"$450,000","$290,000",4,,151m2,1012m2,,
+304,"Last sold on
+      11/03/202546 Newport Street, Belleknowes32452m2$760,000(last sale price)",https://www.realestate.co.nz/property/46-newport-street-belleknowes-dunedin-city-otago/gxv97pkr,,,,,"$800,000",Low,"$760,000",11/03/2025,Low,$676K,Med,$740K,High,$778K,Updated 01/07/22,$800K,1 Jul 2022,"$345,000","$455,000",3,2,108m2,452m2,,
+305,"Last sold on
+      11/03/202519 Picardy Street, Maryhill31543m2$560,000(last sale price)",https://www.realestate.co.nz/property/19-picardy-street-maryhill-dunedin-city-otago/sqg0bhmr,,,,,"$520,000",Low,"$560,000",11/03/2025,Low,$496K,Med,$525K,High,$545K,Updated 01/07/22,$520K,1 Jul 2022,"$335,000","$185,000",3,1,111m2,543m2,,
+306,"Last sold on
+      11/03/2025115 Riselaw Road, Calton Hill31584m2$530,000(last sale price)",https://www.realestate.co.nz/property/115-riselaw-road-calton-hill-dunedin-city-otago/9hf1bczr,,,,,"$610,000",Low,"$530,000",11/03/2025,Low,$523K,Med,$557K,High,$597K,Updated 01/07/22,$610K,1 Jul 2022,"$230,000","$380,000",3,1,118m2,584m2,,
+307,"Last sold on
+      11/03/202511 Marama Street, Musselburgh42506m2$810,000(last sale price)",https://www.realestate.co.nz/property/11-marama-street-musselburgh-dunedin-city-otago/nn7d6kwr,,,,,"$670,000",Low,"$810,000",11/03/2025,Low,$615K,Med,$654K,High,$691K,Updated 01/07/22,$670K,1 Jul 2022,"$255,000","$415,000",4,2,159m2,506m2,,1
+308,"Last sold on
+      10/03/202568 Rosebery Street, Belleknowes31450m2$672,000(last sale price)",https://www.realestate.co.nz/property/68-rosebery-street-belleknowes-dunedin-city-otago/3gbpjwkr,,,,,"$770,000",Low,"$672,000",10/03/2025,Low,$671K,Med,$710K,High,$758K,Updated 01/07/22,$770K,1 Jul 2022,"$365,000","$405,000",3,1,113m2,450m2,,1
+309,"Last sold on
+      10/03/202510 Braeview Crescent, Maori Hill43829m2$1,360,000(last sale price)",https://www.realestate.co.nz/property/10-braeview-crescent-maori-hill-dunedin-city-otago/h3p9whbr,,,,,"$1,530,000",Low,"$1,360,000",10/03/2025,Low,$1.3M,Med,$1.38M,High,$1.53M,Updated 01/07/22,$1.53M,1 Jul 2022,"$975,000","$555,000",4,3,292m2,829m2,,4
+310,"Last sold on
+      10/03/202516 Esk Place, Mosgiel31615m2$613,500(last sale price)",https://www.realestate.co.nz/property/16-esk-place-mosgiel-dunedin-city-otago/d0l6sdks,,,,,"$570,000",Low,"$613,500",10/03/2025,Low,$529K,Med,$558K,High,$585K,Updated 01/07/22,$570K,1 Jul 2022,"$385,000","$185,000",3,1,110m2,615m2,,1
+311,"Last sold on
+      10/03/20256 Alexander Street, Abbotsford31631m2$585,000(last sale price)",https://www.realestate.co.nz/property/6-alexander-street-abbotsford-dunedin-city-otago/rwtk3f9r,,,,,"$550,000",Low,"$585,000",10/03/2025,Low,$510K,Med,$539K,High,$566K,Updated 01/07/22,$550K,1 Jul 2022,"$255,000","$295,000",3,1,100m2,631m2,,2
+312,"Last sold on
+      10/03/202538 Islington Street, North East Valley31529m2$740,000(last sale price)",https://www.realestate.co.nz/property/38-islington-street-north-east-valley-dunedin-city-otago/v38bb68q,,,,,"$690,000",Low,"$740,000",10/03/2025,Low,$601K,Med,$641K,High,$689K,Updated 01/07/22,$690K,1 Jul 2022,"$455,000","$235,000",3,1,133m2,529m2,,1
+313,"Last sold on
+      10/03/202548 Elwyn Crescent, Green Island31513m2$580,000(last sale price)",https://www.realestate.co.nz/property/48-elwyn-crescent-green-island-dunedin-city-otago/86yhvzbs,,,,,"$580,000",Low,"$580,000",10/03/2025,Low,$518K,Med,$548K,High,$567K,Updated 01/07/22,$580K,1 Jul 2022,"$315,000","$265,000",3,1,130m2,513m2,,1
+314,"Last sold on
+      10/03/20252 Flower Street, Fairfield31812m2$590,000(last sale price)",https://www.realestate.co.nz/property/2-flower-street-fairfield-dunedin-city-otago/z10wnbds,,,,,"$560,000",Low,"$590,000",10/03/2025,Low,$505K,Med,$534K,High,$558K,Updated 01/07/22,$560K,1 Jul 2022,"$280,000","$280,000",3,1,90m2,812m2,,1
+315,"Last sold on
+      10/03/202557 Beach Street, Waikouaiti311012m2$450,000(last sale price)",https://www.realestate.co.nz/property/57-beach-street-waikouaiti-dunedin-city-otago/h8xhzb4q,,,,,"$465,000",Low,"$450,000",10/03/2025,Low,$400K,Med,$444K,High,$471K,Updated 01/07/22,$465K,1 Jul 2022,"$270,000","$195,000",3,1,110m2,1012m2,,
+316,"Last sold on
+      10/03/20251 Mallard Place, Mosgiel31824m2$620,000(last sale price)",https://www.realestate.co.nz/property/1-mallard-place-mosgiel-dunedin-city-otago/v1jbftks,,,,,"$670,000",Low,"$620,000",10/03/2025,Low,$646K,Med,$674K,High,$712K,Updated 01/07/22,$670K,1 Jul 2022,"$425,000","$245,000",3,1,110m2,824m2,,1
+317,"Last sold on
+      09/03/202518 Fifield Street, Roslyn42539m2$890,000(last sale price)",https://www.realestate.co.nz/property/18-fifield-street-roslyn-dunedin-city-otago/ych9s0fr,,,,,"$1,120,000",Low,"$890,000",9/03/2025,Low,$915K,Med,$1.01M,High,$1.12M,Updated 01/07/22,$1.12M,1 Jul 2022,"$750,000","$370,000",4,2,210m2,539m2,,2
+318,"Last sold on
+      08/03/202587C Ravenswood Road, Saint Clair32755m2$1,700,000(last sale price)",https://www.realestate.co.nz/property/87c-ravenswood-road-saint-clair-dunedin-city-otago/N4d101Kbl,,,,,"$1,260,000",Low,"$1,700,000",8/03/2025,Low,$1.14M,Med,$1.25M,High,$1.37M,Updated 01/07/22,$1.26M,1 Jul 2022,"$550,000","$710,000",3,2,173m2,755m2,,2
+319,"Last sold on
+      07/03/202584 Glenross Street, Glenross41745m2$747,000(last sale price)",https://www.realestate.co.nz/property/84-glenross-street-glenross-dunedin-city-otago/z10wnbjr,,,,,"$700,000",Low,"$747,000",7/03/2025,Low,$691K,Med,$735K,High,$775K,Updated 01/07/22,$700K,1 Jul 2022,"$230,000","$470,000",4,1,190m2,745m2,,2
+320,"Last sold on
+      07/03/20256/26 Maitland Street, Dunedin Central21$313,000(last sale price)",https://www.realestate.co.nz/property/6-26-maitland-street-dunedin-central-dunedin-city-otago/ks3j2pgx,,,,,"$360,000",Low,"$313,000",7/03/2025,Low,$307K,Med,$335K,High,$361K,Updated 01/07/22,$360K,1 Jul 2022,"$180,000","$180,000",2,1,56m2,,,
+321,"Last sold on
+      07/03/2025116 Sidey Street, Calton Hill31773m2$545,000(last sale price)",https://www.realestate.co.nz/property/116-sidey-street-calton-hill-dunedin-city-otago/8nsl39yr,,,,,"$530,000",Low,"$545,000",7/03/2025,Low,$468K,Med,$498K,High,$529K,Updated 01/07/22,$530K,1 Jul 2022,"$240,000","$290,000",3,1,94m2,773m2,,
+322,"Last sold on
+      07/03/2025112 Bush Road, Mosgiel32630m2$1,015,000(last sale price)",https://www.realestate.co.nz/property/112-bush-road-mosgiel-dunedin-city-otago/hFj31PdZk,,,,,"$1,000,000",Low,"$1,015,000",7/03/2025,Low,$974K,Med,$1.03M,High,$1.07M,Updated 01/07/22,$1M,1 Jul 2022,"$390,000","$610,000",3,2,182m2,630m2,,2
+323,"Last sold on
+      07/03/20254 Coach Road, Fairfield31599m2$902,000(last sale price)",https://www.realestate.co.nz/property/4-coach-road-fairfield-dunedin-city-otago/g9xcmnds,,,,,"$890,000",Low,"$902,000",7/03/2025,Low,$773K,Med,$833K,High,$871K,Updated 01/07/22,$890K,1 Jul 2022,"$270,000","$620,000",3,1,197m2,599m2,,2
+324,"Last sold on
+      07/03/202518 Collins Street, Waikouaiti311012m2$295,000(last sale price)",https://www.realestate.co.nz/property/18-collins-street-waikouaiti-dunedin-city-otago/fp0fzl4q,,,,,"$395,000",Low,"$295,000",7/03/2025,Low,$365K,Med,$415K,High,$457K,Updated 01/07/22,$395K,1 Jul 2022,"$280,000","$115,000",3,1,93m2,1012m2,,2
+325,"Last sold on
+      07/03/2025135 Balmacewen Road, Wakari52599m2$805,000(last sale price)",https://www.realestate.co.nz/property/135-balmacewen-road-wakari-dunedin-city-otago/hd952zcr,,,,,"$920,000",Low,"$805,000",7/03/2025,Low,$808K,Med,$878K,High,$966K,Updated 01/07/22,$920K,1 Jul 2022,"$700,000","$220,000",5,2,250m2,599m2,,2
+326,"Last sold on
+      07/03/202531 Arawa Street, Tainui51572m2$610,000(last sale price)",https://www.realestate.co.nz/property/31-arawa-street-tainui-dunedin-city-otago/p9wh3pvr,,,,,"$650,000",Low,"$610,000",7/03/2025,Low,$594K,Med,$631K,High,$671K,Updated 01/07/22,$650K,1 Jul 2022,"$380,000","$270,000",5,1,182m2,572m2,,2
+327,"Last sold on
+      07/03/202524 Mulford Street, Concord31759m2$480,000(last sale price)",https://www.realestate.co.nz/property/24-mulford-street-concord-dunedin-city-otago/b0vx5m9r,,,,,"$515,000",Low,"$480,000",7/03/2025,Low,$460K,Med,$483K,High,$512K,Updated 01/07/22,$515K,1 Jul 2022,"$265,000","$250,000",3,1,100m2,759m2,,
+328,"Last sold on
+      07/03/202578 Norwood Street, Normanby21506m2$520,000(last sale price)",https://www.realestate.co.nz/property/78-norwood-street-normanby-dunedin-city-otago/2b7psg7q,,,,,"$450,000",Low,"$520,000",7/03/2025,Low,$449K,Med,$478K,High,$512K,Updated 01/07/22,$450K,1 Jul 2022,"$260,000","$190,000",2,1,92m2,506m2,,1
+329,"Last sold on
+      07/03/202529 Blanc Avenue, Fairfield42742m2$825,000(last sale price)",https://www.realestate.co.nz/property/29-blanc-avenue-fairfield-dunedin-city-otago/fbtwkvds,,,,,"$780,000",Low,"$825,000",7/03/2025,Low,$720K,Med,$756K,High,$795K,Updated 01/07/22,$780K,1 Jul 2022,"$370,000","$410,000",4,2,193m2,742m2,,2
+330,"Last sold on
+      07/03/20253 Gresham Street, Tainui31718m2$560,000(last sale price)",https://www.realestate.co.nz/property/3-gresham-street-tainui-dunedin-city-otago/6xrpqvvr,,,,,"$580,000",Low,"$560,000",7/03/2025,Low,$522K,Med,$549K,High,$581K,Updated 01/07/22,$580K,1 Jul 2022,"$400,000","$180,000",3,1,120m2,718m2,,1
+331,"Last sold on
+      07/03/20258 Auld Street, Saint Kilda31429m2$550,000(last sale price)",https://www.realestate.co.nz/property/8-auld-street-saint-kilda-dunedin-city-otago/ftc4273r,,,,,"$520,000",Low,"$550,000",7/03/2025,Low,$500K,Med,$536K,High,$565K,Updated 01/07/22,$520K,1 Jul 2022,"$375,000","$145,000",3,1,130m2,429m2,,1
+332,"Last sold on
+      07/03/202525 Calder Street, Saint Kilda1372m2$390,000(last sale price)",https://www.realestate.co.nz/property/25-calder-street-saint-kilda-dunedin-city-otago/3mkwlq4r,,,,,"$415,000",Low,"$390,000",7/03/2025,Low,$372K,Med,$401K,High,$432K,Updated 01/07/22,$415K,1 Jul 2022,"$270,000","$145,000",,1,104m2,372m2,,
+333,"Last sold on
+      07/03/202514B Ascot Street, Saint Kilda31$507,000(last sale price)",https://www.realestate.co.nz/property/14b-ascot-street-saint-kilda-dunedin-city-otago/kk492g4r,,,,,"$510,000",Low,"$507,000",7/03/2025,Low,$470K,Med,$499K,High,$527K,Updated 01/07/22,$510K,1 Jul 2022,"$250,000","$260,000",3,1,130m2,,,1
+334,"Last sold on
+      07/03/20258 Pinfold Place, Mosgiel1443m2$379,000(last sale price)",https://www.realestate.co.nz/property/8-pinfold-place-mosgiel-dunedin-city-otago/5fbtwkcs,,,,,"$440,000",Low,"$379,000",7/03/2025,Low,$342K,Med,$380K,High,$420K,Updated 01/07/22,$440K,1 Jul 2022,"$425,000","$15,000",,,,1443m2,,
+335,"Last sold on
+      07/03/20258 Christie Street, Abbotsford51722m2$655,000(last sale price)",https://www.realestate.co.nz/property/8-christie-street-abbotsford-dunedin-city-otago/lwgck18r,,,,,"$585,000",Low,"$655,000",7/03/2025,Low,$539K,Med,$571K,High,$611K,Updated 01/07/22,$585K,1 Jul 2022,"$300,000","$285,000",5,1,150m2,722m2,,1
+336,"Last sold on
+      07/03/202514 Maple Grove, Mosgiel31626m2$705,000(last sale price)",https://www.realestate.co.nz/property/14-maple-grove-mosgiel-dunedin-city-otago/pjrcdtms,,,,,"$700,000",Low,"$705,000",7/03/2025,Low,$657K,Med,$692K,High,$718K,Updated 01/07/22,$700K,1 Jul 2022,"$385,000","$315,000",3,1,140m2,626m2,,2
+337,"Last sold on
+      06/03/202535 Brownville Crescent, Maori Hill31430m2$595,000(last sale price)",https://www.realestate.co.nz/property/35-brownville-crescent-maori-hill-dunedin-city-otago/nzptb8cr,"35 Brownville Crescent, MAORI HILL, Dunedin City",Three Bedroom - Maori Hill,Cute and cosy  character cottageThree double bedrooms each with wardrobesCentral heating via a pellet burner in the basement areaFire in the loungeRecently decorated with new paintLight filled living room with sunny deckKitchen with dishwasherSeparate laundry with extractor fan installedBathroom with shower over a shub4 weeks bond,dollar$600 per week,,,,,,,,,,,,,,,,3,1,,,,
+338,"Last sold on
+      06/03/2025135 Oakwood Avenue, Balaclava21299m2$487,045(last sale price)",https://www.realestate.co.nz/property/135-oakwood-avenue-balaclava-dunedin-city-otago/ss2nkrmr,,,,,"$470,000",Low,"$487,045",6/03/2025,Low,$403K,Med,$430K,High,$454K,Updated 01/07/22,$470K,1 Jul 2022,"$235,000","$235,000",2,1,70m2,299m2,,1
+339,"Last sold on
+      06/03/20251 Glenimrie Close, Mosgiel42699m2$1,160,000(last sale price)",https://www.realestate.co.nz/property/1-glenimrie-close-mosgiel-dunedin-city-otago/0vsty5dqz,,,,,"$1,130,000",Low,"$1,160,000",6/03/2025,Low,$1.14M,Med,$1.18M,High,$1.24M,Updated 01/07/22,$1.13M,1 Jul 2022,"$425,000","$705,000",4,2,235m2,699m2,,2
+340,"Last sold on
+      06/03/2025189 Taieri Road, Kaikorai32680m2$630,000(last sale price)",https://www.realestate.co.nz/property/189-taieri-road-kaikorai-dunedin-city-otago/w0jgshhr,,,,,"$680,000",Low,"$630,000",6/03/2025,Low,$626K,Med,$662K,High,$699K,Updated 01/07/22,$680K,1 Jul 2022,"$330,000","$350,000",3,2,173m2,680m2,,1
+341,"Last sold on
+      06/03/2025118 Mulford Street, Concord31587m2$560,000(last sale price)",https://www.realestate.co.nz/property/118-mulford-street-concord-dunedin-city-otago/w0jgsh8r,,,,,"$625,000",Low,"$560,000",6/03/2025,Low,$545K,Med,$578K,High,$604K,Updated 01/07/22,$625K,1 Jul 2022,"$285,000","$340,000",3,1,122m2,587m2,,
+342,"Last sold on
+      06/03/202522 Clearwater Street, Broad Bay53843m2$1,510,000(last sale price)",https://www.realestate.co.nz/property/22-clearwater-street-broad-bay-dunedin-city-otago/mp78tw7r,,,,,"$1,480,000",Low,"$1,510,000",6/03/2025,Low,$1.26M,Med,$1.43M,High,$1.54M,Updated 01/07/22,$1.48M,1 Jul 2022,"$355,000","$1,125,000",5,3,275m2,843m2,,3
+343,"Last sold on
+      06/03/202515B Ethel Benjamin Place, North Dunedin32$802,000(last sale price)",https://www.realestate.co.nz/property/15b-ethel-benjamin-place-north-dunedin-dunedin-city-otago/x9zz8v0v,,,,,"$890,000",Low,"$802,000",6/03/2025,Low,$777K,Med,$785K,High,$792K,Updated 01/07/22,$890K,1 Jul 2022,"$370,000","$520,000",3,2,104m2,,,
+344,"Last sold on
+      06/03/202513 Athol Place, Ravensbourne31755m2$490,000(last sale price)",https://www.realestate.co.nz/property/13-athol-place-ravensbourne-dunedin-city-otago/8jfxzn6q,,,,,"$490,000",Low,"$490,000",6/03/2025,Low,$436K,Med,$461K,High,$489K,Updated 01/07/22,$490K,1 Jul 2022,"$240,000","$250,000",3,1,85m2,755m2,,1
+345,"Last sold on
+      06/03/202512 Rockside Road, Glenleith31712m2$480,000(last sale price)",https://www.realestate.co.nz/property/12-rockside-road-glenleith-dunedin-city-otago/tfrrgwbr,,,,,"$540,000",Low,"$480,000",6/03/2025,Low,$468K,Med,$502K,High,$531K,Updated 01/07/22,$540K,1 Jul 2022,"$200,000","$340,000",3,1,90m2,712m2,,1
+346,"Last sold on
+      06/03/20254A Wairoa Street, Kaikorai4482m2$605,000(last sale price)",https://www.realestate.co.nz/property/4a-wairoa-street-kaikorai-dunedin-city-otago/t2j613sz,,,,,"$580,000",Low,"$605,000",6/03/2025,Low,$530K,Med,$566K,High,$595K,Updated 01/07/22,$580K,1 Jul 2022,"$370,000","$210,000",4,,150m2,482m2,,
+347,"Last sold on
+      05/03/2025281 Highcliff Road, Shiel Hill31809m2$565,000(last sale price)",https://www.realestate.co.nz/property/281-highcliff-road-shiel-hill-dunedin-city-otago/4bvmq3tr,,,,,"$610,000",Low,"$565,000",5/03/2025,Low,$564K,Med,$595K,High,$625K,Updated 01/07/22,$610K,1 Jul 2022,"$370,000","$240,000",3,1,102m2,809m2,,1
+348,"Recently sold18 Panmure Avenue, Calton Hill311099m2Price is not yet confirmed",https://www.realestate.co.nz/property/18-panmure-avenue-calton-hill-dunedin-city-otago/2zwsplzr,,,,,"$445,000",Low,,,Low,$392K,Med,$422K,High,$455K,Updated 01/07/22,$445K,1 Jul 2022,"$255,000","$190,000",3,1,100m2,1099m2,,
+349,"Last sold on
+      05/03/202542A Saint Leonards Drive, Saint Leonards331367m2$1,200,000(last sale price)",https://www.realestate.co.nz/property/42a-saint-leonards-drive-saint-leonards-dunedin-city-otago/l7nxyslmk,,,,,"$990,000",Low,"$1,200,000",5/03/2025,Low,$976K,Med,$1.06M,High,$1.17M,Updated 01/07/22,$990K,1 Jul 2022,"$440,000","$550,000",3,3,341m2,1367m2,,4
+350,"Last sold on
+      05/03/202524 Bennett Road, Ocean View31984m2$497,000(last sale price)",https://www.realestate.co.nz/property/24-bennett-road-ocean-view-dunedin-city-otago/vj3ky6fs,,,,,"$560,000",Low,"$497,000",5/03/2025,Low,$482K,Med,$515K,High,$548K,Updated 01/07/22,$560K,1 Jul 2022,"$315,000","$245,000",3,1,93m2,984m2,,1
+351,"Last sold on
+      05/03/202537 Pennant Street, Wakari21573m2$567,000(last sale price)",https://www.realestate.co.nz/property/37-pennant-street-wakari-dunedin-city-otago/xfcpdjfr,,,,,"$550,000",Low,"$567,000",5/03/2025,Low,$485K,Med,$523K,High,$545K,Updated 01/07/22,$550K,1 Jul 2022,"$250,000","$300,000",2,1,110m2,573m2,,2
+352,"Last sold on
+      05/03/202530A Forrester Avenue, Liberton21376m2$350,000(last sale price)",https://www.realestate.co.nz/property/30a-forrester-avenue-liberton-dunedin-city-otago/dkxg754v,,,,,"$360,000",Low,"$350,000",5/03/2025,Low,$325K,Med,$356K,High,$382K,Updated 01/07/22,$360K,1 Jul 2022,"$230,000","$130,000",2,1,70m2,376m2,,
+353,"Last sold on
+      05/03/202517 Adderley Terrace, Ravensbourne21769m2$480,000(last sale price)",https://www.realestate.co.nz/property/17-adderley-terrace-ravensbourne-dunedin-city-otago/5p153v6q,,,,,"$420,000",Low,"$480,000",5/03/2025,Low,$336K,Med,$373K,High,$402K,Updated 01/07/22,$420K,1 Jul 2022,"$240,000","$180,000",2,1,73m2,769m2,,
+354,"Last sold on
+      05/03/202519 Koremata Street, Green Island41711m2$640,000(last sale price)",https://www.realestate.co.nz/property/19-koremata-street-green-island-dunedin-city-otago/x243zr9r,,,,,"$625,000",Low,"$640,000",5/03/2025,Low,$571K,Med,$603K,High,$629K,Updated 01/07/22,$625K,1 Jul 2022,"$295,000","$330,000",4,1,180m2,711m2,,1
+355,"Last sold on
+      05/03/202538 Eastbourne Street, Caversham21209m2$407,000(last sale price)",https://www.realestate.co.nz/property/38-eastbourne-street-caversham-dunedin-city-otago/jnw6m50r,,,,,"$440,000",Low,"$407,000",5/03/2025,Low,$381K,Med,$400K,High,$422K,Updated 01/07/22,$440K,1 Jul 2022,"$195,000","$245,000",2,1,74m2,209m2,,1
+356,"Last sold on
+      04/03/202543 Melrose Street, Roslyn31832m2$800,000(last sale price)",https://www.realestate.co.nz/property/43-melrose-street-roslyn-dunedin-city-otago/tmvghxfr,,,,,"$770,000",Low,"$800,000",4/03/2025,Low,$671K,Med,$714K,High,$771K,Updated 01/07/22,$770K,1 Jul 2022,"$500,000","$270,000",3,1,141m2,832m2,,1
+357,"Last sold on
+      04/03/202514 Irwin Logan Drive, Mosgiel421070m2$1,149,000(last sale price)",https://www.realestate.co.nz/property/14-irwin-logan-drive-mosgiel-dunedin-city-otago/zm29b6cs,,,,,"$1,090,000",Low,"$1,149,000",4/03/2025,Low,$1.08M,Med,$1.14M,High,$1.18M,Updated 01/07/22,$1.09M,1 Jul 2022,"$410,000","$680,000",4,2,249m2,1070m2,,2
+358,"Last sold on
+      04/03/202565 Law Street, Caversham41608m2$500,000(last sale price)",https://www.realestate.co.nz/property/65-law-street-caversham-dunedin-city-otago/xysfw30r,,,,,"$520,000",Low,"$500,000",4/03/2025,Low,$438K,Med,$476K,High,$524K,Updated 01/07/22,$520K,1 Jul 2022,"$405,000","$115,000",4,1,164m2,608m2,,1
+359,"Last sold on
+      04/03/20259 Dalry Street, Mornington32546m2$460,000(last sale price)",https://www.realestate.co.nz/property/9-dalry-street-mornington-dunedin-city-otago/3dq09llr,,,,,"$545,000",Low,"$460,000",4/03/2025,Low,$486K,Med,$529K,High,$565K,Updated 01/07/22,$545K,1 Jul 2022,"$200,000","$345,000",3,2,110m2,546m2,,1
+360,"Last sold on
+      04/03/202516 Kinmont Crescent, Mosgiel31640m2$617,508(last sale price)",https://www.realestate.co.nz/property/16-kinmont-crescent-mosgiel-dunedin-city-otago/ych9s0ks,,,,,"$700,000",Low,"$617,508",4/03/2025,Low,$634K,Med,$665K,High,$697K,Updated 01/07/22,$700K,1 Jul 2022,"$360,000","$340,000",3,1,197m2,640m2,,2
+361,"Last sold on
+      03/03/202511 Carnarvon Street, Belleknowes41572m2$610,000(last sale price)",https://www.realestate.co.nz/property/11-carnarvon-street-belleknowes-dunedin-city-otago/yhvzxnkr,,,,,"$620,000",Low,"$610,000",3/03/2025,Low,$559K,Med,$587K,High,$622K,Updated 01/07/22,$620K,1 Jul 2022,"$325,000","$295,000",4,1,110m2,572m2,,1
+362,"Last sold on
+      03/03/202549 Kauri Street, Ravensbourne311012m2$300,000(last sale price)",https://www.realestate.co.nz/property/49-kauri-street-ravensbourne-dunedin-city-otago/jybr4j6q,,,,,"$510,000",Low,"$300,000",3/03/2025,Low,$365K,Med,$426K,High,$483K,Updated 01/07/22,$510K,1 Jul 2022,"$355,000","$155,000",3,1,100m2,1012m2,,
+363,"Last sold on
+      03/03/2025115 Lynn Street, Wakari31479m2$618,000(last sale price)",https://www.realestate.co.nz/property/115-lynn-street-wakari-dunedin-city-otago/tnlmrzdr,,,,,"$540,000",Low,"$618,000",3/03/2025,Low,$493K,Med,$522K,High,$552K,Updated 01/07/22,$540K,1 Jul 2022,"$245,000","$295,000",3,1,114m2,479m2,,1
+364,"Last sold on
+      03/03/2025192C Gordon Road, Mosgiel21$370,000(last sale price)",https://www.realestate.co.nz/property/192c-gordon-road-mosgiel-dunedin-city-otago/7d6kk4js,,,,,"$330,000",Low,"$370,000",3/03/2025,Low,$306K,Med,$331K,High,$356K,Updated 01/07/22,$330K,1 Jul 2022,"$180,000","$150,000",2,1,70m2,,,1
+365,"Last sold on
+      03/03/2025198B Gordon Road, Mosgiel21$320,000(last sale price)",https://www.realestate.co.nz/property/198b-gordon-road-mosgiel-dunedin-city-otago/4jybr4js,,,,,"$370,000",Low,"$320,000",3/03/2025,Low,$326K,Med,$354K,High,$380K,Updated 01/07/22,$370K,1 Jul 2022,"$165,000","$205,000",2,1,60m2,,,1
+366,"Last sold on
+      03/03/202552 Sutherland Street, Dunedin Central52483m2$600,000(last sale price)",https://www.realestate.co.nz/property/52-sutherland-street-dunedin-central-dunedin-city-otago/0vx5m9pr,,,,,"$600,000",Low,"$600,000",3/03/2025,Low,$509K,Med,$550K,High,$613K,Updated 01/07/22,$600K,1 Jul 2022,"$540,000","$60,000",5,2,155m2,483m2,,
+367,"Last sold on
+      03/03/2025146 Surrey Street, Forbury31446m2$600,000(last sale price)",https://www.realestate.co.nz/property/146-surrey-street-forbury-dunedin-city-otago/613cvh1r,,,,,"$570,000",Low,"$600,000",3/03/2025,Low,$494K,Med,$522K,High,$551K,Updated 01/07/22,$570K,1 Jul 2022,"$250,000","$320,000",3,1,98m2,446m2,,1
+368,"Last sold on
+      03/03/202587 Somerville Street, Andersons Bay312666m2$490,000(last sale price)",https://www.realestate.co.nz/property/87-somerville-street-andersons-bay-dunedin-city-otago/wvfmdssr,,,,,"$475,000",Low,"$490,000",3/03/2025,Low,$445K,Med,$470K,High,$506K,Updated 01/07/22,$475K,1 Jul 2022,"$200,000","$275,000",3,1,140m2,2666m2,,1
+369,"Last sold on
+      03/03/202580 Koremata Street, Green Island31622m2$405,000(last sale price)",https://www.realestate.co.nz/property/80-koremata-street-green-island-dunedin-city-otago/w87t0s9r,,,,,"$505,000",Low,"$405,000",3/03/2025,Low,$442K,Med,$476K,High,$510K,Updated 01/07/22,$505K,1 Jul 2022,"$235,000","$270,000",3,1,74m2,622m2,,
+370,"Last sold on
+      03/03/20254 Franklin Street, Dalmore21400m2$505,000(last sale price)",https://www.realestate.co.nz/property/4-franklin-street-dalmore-dunedin-city-otago/w7hprq9q,,,,,"$660,000",Low,"$505,000",3/03/2025,Low,$539K,Med,$584K,High,$623K,Updated 01/07/22,$660K,1 Jul 2022,"$270,000","$390,000",2,1,170m2,400m2,,1
+371,"Last sold on
+      03/03/20252D Belford Street, Waverley321851m2$785,000(last sale price)",https://www.realestate.co.nz/property/2d-belford-street-waverley-dunedin-city-otago/t6ww5rsr,,,,,"$800,000",Low,"$785,000",3/03/2025,Low,$768K,Med,$797K,High,$830K,Updated 01/07/22,$800K,1 Jul 2022,"$360,000","$440,000",3,2,166m2,1851m2,,2
+372,"Last sold on
+      03/03/20253 Blackman Avenue, Sawyers Bay21401m2$356,238(last sale price)",https://www.realestate.co.nz/property/3-blackman-avenue-sawyers-bay-dunedin-city-otago/mvghxq5q,,,,,"$415,000",Low,"$356,238",3/03/2025,Low,$345K,Med,$378K,High,$403K,Updated 01/07/22,$415K,1 Jul 2022,"$220,000","$195,000",2,1,60m2,401m2,,1
+373,"Last sold on
+      02/03/202513 Rennie Street, Green Island31713m2$495,000(last sale price)",https://www.realestate.co.nz/property/13-rennie-street-green-island-dunedin-city-otago/hf5p159r,,,,,"$520,000",Low,"$495,000",2/03/2025,Low,$475K,Med,$496K,High,$523K,Updated 01/07/22,$520K,1 Jul 2022,"$285,000","$235,000",3,1,102m2,713m2,,1
+374,"Last sold on
+      01/03/202574 Hocken Street, Kenmure331303m2$766,000(last sale price)",https://www.realestate.co.nz/property/74-hocken-street-kenmure-dunedin-city-otago/44v8c6mr,,,,,"$720,000",Low,"$766,000",1/03/2025,Low,$636K,Med,$689K,High,$722K,Updated 01/07/22,$720K,1 Jul 2022,"$215,000","$505,000",3,3,170m2,1303m2,,1
+375,"Last sold on
+      01/03/202528 Arran Street, Mosgiel32344m2$590,000(last sale price)",https://www.realestate.co.nz/property/28-arran-street-mosgiel-dunedin-city-otago/6sd0l6hs,,,,,"$560,000",Low,"$590,000",1/03/2025,Low,$536K,Med,$565K,High,$603K,Updated 01/07/22,$560K,1 Jul 2022,"$260,000","$300,000",3,2,121m2,344m2,,1
+376,"Last sold on
+      01/03/202510 Mechanic Street, North East Valley31448m2$500,000(last sale price)",https://www.realestate.co.nz/property/10-mechanic-street-north-east-valley-dunedin-city-otago/rvy1478q,,,,,"$490,000",Low,"$500,000",1/03/2025,Low,$455K,Med,$489K,High,$525K,Updated 01/07/22,$490K,1 Jul 2022,"$400,000","$90,000",3,1,110m2,448m2,,
+377,"Last sold on
+      01/03/202537 Dowling Street, Dunedin Central7211518m2$3,280,000(last sale price)",https://www.realestate.co.nz/property/37-dowling-street-dunedin-central-dunedin-city-otago/fw34zmpr,,,,,"$4,030,000",Low,"$3,280,000",1/03/2025,Low,$2.6M,Med,$3.32M,High,$4.33M,Updated 01/07/22,$4.03M,1 Jul 2022,"$940,000","$3,090,000",7,21,630m2,1518m2,,
+378,"Last sold on
+      01/03/20258 Hawthorn Avenue, Mornington21457m2$440,000(last sale price)",https://www.realestate.co.nz/property/8-hawthorn-avenue-mornington-dunedin-city-otago/6rjhn0kr,,,,,"$485,000",Low,"$440,000",1/03/2025,Low,$415K,Med,$441K,High,$466K,Updated 01/07/22,$485K,1 Jul 2022,"$225,000","$260,000",2,1,98m2,457m2,,
+379,"Last sold on
+      28/02/202516 Benhar Street, Maryhill31592m2$742,500(last sale price)",https://www.realestate.co.nz/property/16-benhar-street-maryhill-dunedin-city-otago/x83gbpmr,,,,,"$720,000",Low,"$742,500",28/02/2025,Low,$633K,Med,$677K,High,$713K,Updated 01/07/22,$720K,1 Jul 2022,"$345,000","$375,000",3,1,140m2,592m2,,1
+380,"Last sold on
+      28/02/202578 Skibo Street, Kew31767m2$585,000(last sale price)",https://www.realestate.co.nz/property/78-skibo-street-kew-dunedin-city-otago/cb2ly2zr,,,,,"$575,000",Low,"$585,000",28/02/2025,Low,$512K,Med,$540K,High,$562K,Updated 01/07/22,$575K,1 Jul 2022,"$300,000","$275,000",3,1,140m2,767m2,,
+381,"Last sold on
+      28/02/20251/21 Irvine Street, Mosgiel21$571,000(last sale price)",https://www.realestate.co.nz/property/1-21-irvine-street-mosgiel-dunedin-city-otago/gd6LSG8Xk,,,,,"$590,000",Low,"$571,000",28/02/2025,Low,$522K,Med,$542K,High,$578K,Updated 01/07/22,$590K,1 Jul 2022,"$220,000","$370,000",2,1,81m2,,,
+382,"Last sold on
+      28/02/202540 Hocken Street, Kenmure21191m2$670,000(last sale price)",https://www.realestate.co.nz/property/40-hocken-street-kenmure-dunedin-city-otago/z672q5mr,,,,,"$730,000",Low,"$670,000",28/02/2025,Low,$655K,Med,$692K,High,$727K,Updated 01/07/22,$730K,1 Jul 2022,"$290,000","$440,000",,2,200m2,1191m2,,2
+383,"Last sold on
+      28/02/20258 Exeter Street, Abbotsford31911m2$640,000(last sale price)",https://www.realestate.co.nz/property/8-exeter-street-abbotsford-dunedin-city-otago/swp6db9r,,,,,"$570,000",Low,"$640,000",28/02/2025,Low,$544K,Med,$581K,High,$613K,Updated 01/07/22,$570K,1 Jul 2022,"$360,000","$210,000",3,1,110m2,911m2,,2
+384,"Last sold on
+      28/02/202530B Tedder Street, Saint Kilda21$420,000(last sale price)",https://www.realestate.co.nz/property/30b-tedder-street-saint-kilda-dunedin-city-otago/0c7kfs3r,,,,,"$550,000",Low,"$420,000",28/02/2025,Low,$478K,Med,$510K,High,$544K,Updated 01/07/22,$550K,1 Jul 2022,"$250,000","$300,000",2,1,100m2,,,1
+385,"Last sold on
+      28/02/20251 Mure Street, Mosgiel42463m2$675,000(last sale price)",https://www.realestate.co.nz/property/1-mure-street-mosgiel-dunedin-city-otago/sk7s8mls,,,,,"$600,000",Low,"$675,000",28/02/2025,Low,$589K,Med,$627K,High,$659K,Updated 01/07/22,$600K,1 Jul 2022,"$360,000","$240,000",4,2,177m2,463m2,,1
+386,"Last sold on
+      28/02/202588 Barr Street, Kenmure31717m2$487,500(last sale price)",https://www.realestate.co.nz/property/88-barr-street-kenmure-dunedin-city-otago/28gpw2mr,,,,,"$535,000",Low,"$487,500",28/02/2025,Low,$491K,Med,$519K,High,$547K,Updated 01/07/22,$535K,1 Jul 2022,"$335,000","$200,000",3,1,93m2,717m2,,
+387,"Last sold on
+      28/02/202524 Shortland Street, Caversham21506m2$449,000(last sale price)",https://www.realestate.co.nz/property/24-shortland-street-caversham-dunedin-city-otago/c2gldxxr,,,,,"$455,000",Low,"$449,000",28/02/2025,Low,$378K,Med,$407K,High,$426K,Updated 01/07/22,$455K,1 Jul 2022,"$160,000","$295,000",2,1,80m2,506m2,,
+388,"Last sold on
+      28/02/202529 Lonsdale Street, Belleknowes41655m2$685,000(last sale price)",https://www.realestate.co.nz/property/29-lonsdale-street-belleknowes-dunedin-city-otago/v2dvc0kr,,,,,"$620,000",Low,"$685,000",28/02/2025,Low,$544K,Med,$579K,High,$607K,Updated 01/07/22,$620K,1 Jul 2022,"$310,000","$310,000",4,1,140m2,655m2,,2
+389,"Recently sold129A Helensburgh Road, Halfway Bush21Price is not yet confirmed",https://www.realestate.co.nz/property/129a-helensburgh-road-halfway-bush-dunedin-city-otago/bq80z4lw,,,,,"$425,000",Low,,,Low,$377K,Med,$397K,High,$415K,Updated 01/07/22,$425K,1 Jul 2022,"$175,000","$250,000",2,1,83m2,,,
+390,"Last sold on
+      27/02/2025249 North Road, North East Valley31314m2$425,000(last sale price)",https://www.realestate.co.nz/property/249-north-road-north-east-valley-dunedin-city-otago/87t0s56q,,,,,"$445,000",Low,"$425,000",27/02/2025,Low,$407K,Med,$435K,High,$469K,Updated 01/07/22,$445K,1 Jul 2022,"$280,000","$165,000",3,1,105m2,314m2,,1
+391,"Last sold on
+      27/02/2025111 Centennial Avenue, Helensburgh31525m2$635,000(last sale price)",https://www.realestate.co.nz/property/111-centennial-avenue-helensburgh-dunedin-city-otago/36qnzpcr,,,,,"$650,000",Low,"$635,000",27/02/2025,Low,$601K,Med,$630K,High,$652K,Updated 01/07/22,$650K,1 Jul 2022,"$335,000","$315,000",3,1,114m2,525m2,,1
+392,"Last sold on
+      27/02/202513 Treetop Drive, Portobello878m2$85,000(last sale price)",https://www.realestate.co.nz/property/13-treetop-drive-portobello-dunedin-city-otago/wS68mtQXk,,,,,"$240,000",Low,"$85,000",27/02/2025,Low,$218K,Med,$254K,High,$283K,Updated 01/07/22,$240K,1 Jul 2022,"$240,000",$0,,,,878m2,,
+393,"Last sold on
+      27/02/202549 Nottingham Crescent, Calton Hill31873m2$540,000(last sale price)",https://www.realestate.co.nz/property/49-nottingham-crescent-calton-hill-dunedin-city-otago/bbbbbbzr,,,,,"$580,000",Low,"$540,000",27/02/2025,Low,$507K,Med,$540K,High,$570K,Updated 01/07/22,$580K,1 Jul 2022,"$230,000","$350,000",3,1,200m2,873m2,,1
+394,"Last sold on
+      27/02/20254 Beverley Place, Waverley31628m2$740,000(last sale price)",https://www.realestate.co.nz/property/4-beverley-place-waverley-dunedin-city-otago/dh5fbttr,,,,,"$675,000",Low,"$740,000",27/02/2025,Low,$612K,Med,$650K,High,$681K,Updated 01/07/22,$675K,1 Jul 2022,"$385,000","$290,000",3,1,240m2,628m2,,2
+395,"Last sold on
+      27/02/202550 Hall Road, Sawyers Bay411012m2$430,000(last sale price)",https://www.realestate.co.nz/property/50-hall-road-sawyers-bay-dunedin-city-otago/h5fbtw5q,,,,,"$500,000",Low,"$430,000",27/02/2025,Low,$432K,Med,$470K,High,$510K,Updated 01/07/22,$500K,1 Jul 2022,"$325,000","$175,000",4,1,90m2,1012m2,,1
+396,"Last sold on
+      27/02/202594 Centennial Avenue, Helensburgh31653m2$600,000(last sale price)",https://www.realestate.co.nz/property/94-centennial-avenue-helensburgh-dunedin-city-otago/9lx6htcr,,,,,"$580,000",Low,"$600,000",27/02/2025,Low,$545K,Med,$571K,High,$594K,Updated 01/07/22,$580K,1 Jul 2022,"$265,000","$315,000",3,1,97m2,653m2,,1
+397,"Last sold on
+      26/02/2025104 Main Road, Fairfield21809m2$540,000(last sale price)",https://www.realestate.co.nz/property/104-main-road-fairfield-dunedin-city-otago/dfks3jds,,,,,"$500,000",Low,"$540,000",26/02/2025,Low,$424K,Med,$460K,High,$485K,Updated 01/07/22,$500K,1 Jul 2022,"$330,000","$170,000",2,1,58m2,809m2,,1
+398,"Last sold on
+      26/02/20259 Summertime Avenue, Corstorphine31782m2$631,447(last sale price)",https://www.realestate.co.nz/property/9-summertime-avenue-corstorphine-dunedin-city-otago/9s0xjvzr,,,,,"$660,000",Low,"$631,447",26/02/2025,Low,$587K,Med,$615K,High,$648K,Updated 01/07/22,$660K,1 Jul 2022,"$280,000","$380,000",3,1,180m2,782m2,,3
+399,"Last sold on
+      26/02/202559 Glen Road, Mornington31800m2$460,000(last sale price)",https://www.realestate.co.nz/property/59-glen-road-mornington-dunedin-city-otago/d89k1plr,,,,,"$435,000",Low,"$460,000",26/02/2025,Low,$385K,Med,$408K,High,$428K,Updated 01/07/22,$435K,1 Jul 2022,"$165,000","$270,000",3,1,89m2,800m2,,
+400,"Last sold on
+      26/02/202587 Main South Road, East Taieri311012m2$500,000(last sale price)",https://www.realestate.co.nz/property/87-main-south-road-east-taieri-dunedin-city-otago/h3p9whms,,,,,"$510,000",Low,"$500,000",26/02/2025,Low,$451K,Med,$486K,High,$526K,Updated 01/07/22,$510K,1 Jul 2022,"$350,000","$160,000",3,1,90m2,1012m2,,1
+401,"Last sold on
+      26/02/202595 Doon Street, Waverley42524m2$1,800,000(last sale price)",https://www.realestate.co.nz/property/95-doon-street-waverley-dunedin-city-otago/9k1pkmtr,,,,,"$1,200,000",Low,"$1,800,000",26/02/2025,Low,$993K,Med,$1.11M,High,$1.23M,Updated 01/07/22,$1.2M,1 Jul 2022,"$650,000","$550,000",4,2,191m2,524m2,,2
+402,"Last sold on
+      26/02/20251106A Brighton Road, Brighton22622m2$930,000(last sale price)",https://www.realestate.co.nz/property/1106a-brighton-road-brighton-dunedin-city-otago/2wdmj47pz,,,,,"$890,000",Low,"$930,000",26/02/2025,Low,$805K,Med,$860K,High,$913K,Updated 01/07/22,$890K,1 Jul 2022,"$300,000","$590,000",2,2,158m2,622m2,,1
+403,"Last sold on
+      26/02/202539 Centennial Avenue, Helensburgh31587m2$550,000(last sale price)",https://www.realestate.co.nz/property/39-centennial-avenue-helensburgh-dunedin-city-otago/ppzkgncr,,,,,"$590,000",Low,"$550,000",26/02/2025,Low,$549K,Med,$578K,High,$602K,Updated 01/07/22,$590K,1 Jul 2022,"$295,000","$295,000",3,1,111m2,587m2,,
+404,"Last sold on
+      26/02/2025156 Surrey Street, Saint Clair1503m2$470,000(last sale price)",https://www.realestate.co.nz/property/156-surrey-street-saint-clair-dunedin-city-otago/kb9ftc3r,,,,,"$490,000",Low,"$470,000",26/02/2025,Low,$443K,Med,$479K,High,$520K,Updated 01/07/22,$490K,1 Jul 2022,"$370,000","$120,000",,1,130m2,503m2,,1
+405,"Last sold on
+      26/02/2025504 Queens Drive, Dunedin Central631393m2$985,000(last sale price)",https://www.realestate.co.nz/property/504-queens-drive-dunedin-central-dunedin-city-otago/b5237gpr,,,,,"$1,355,000",Low,"$985,000",26/02/2025,Low,$1.07M,Med,$1.15M,High,$1.25M,Updated 01/07/22,$1.36M,1 Jul 2022,"$795,000","$560,000",6,3,365m2,1393m2,,2
+406,"Last sold on
+      26/02/2025601 Highcliff Road, Highcliff21.16ha$905,000(last sale price)",https://www.realestate.co.nz/property/601-highcliff-road-highcliff-dunedin-city-otago/fcpdj17r,,,,,"$940,000",Low,"$905,000",26/02/2025,Low,$880K,Med,$891K,High,$900K,Updated 01/07/22,$940K,1 Jul 2022,"$560,000","$380,000",,2,260m2,1.16ha,,1
